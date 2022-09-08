@@ -1,0 +1,6 @@
+Not included due to big size.
+Available for downloading from GSE
+
+Command used to clone the folder structure with the files in there excluding fasta,sra and out files from download.
+rsync -av --include='*/' --exclude='*.fastq' --exclude='*.sra' --exclude='*outfile_generated*' --exclude='*errfile_generated*' mbotos@binfservms01.unibe.ch:/data/users/mbotos/PhDdataSets/Datasets/Danio_rerio/RNAseq/ .
+

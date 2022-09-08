@@ -1,0 +1,8 @@
+Pre-existent adult sox10+ cardiomyocytes contribute to myocardial regeneration in the zebrafish 
+Identifiers: SRA:SRP212668
+BioProject:PRJNA551951
+GEO:GSE133571
+Study Type: Transcriptome Analysis
+Abstract: During heart regeneration in the zebrafish, fibrotic tissue is replaced by newly formed cardiomyocytes derived from pre-existing ones. It is unclear whether the heart is comprised of several cardiomyocyte populations bearing different capacity to replace lost myocardium. Here, using sox10 genetic fate mapping, we identified a subset of pre-existent cardiomyocytes in the adult zebrafish heart with a distinct gene expression profile that expanded massively after cryoinjury. Genetic ablation of sox10+ cardiomyocytes severely impaired cardiac regeneration revealing that they play a crucial role for heart regeneration. Overall design: Adult zebrafish heart tg(sox10:CreERT2;vmhcl:loxP-tagBFP-loxP-mCherry-NTR) were disassociated and 20 CMs were FAC-sorted in single tubes for DESeq2 Library preparation
+Center Project: GSE133571
+

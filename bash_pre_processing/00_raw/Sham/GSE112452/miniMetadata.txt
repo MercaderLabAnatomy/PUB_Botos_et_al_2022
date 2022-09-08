@@ -1,0 +1,11 @@
+Library:
+Instrument: BGISEQ-500
+Strategy: RNA-Seq
+Source: TRANSCRIPTOMIC
+Selection: cDNA
+Layout: SINGLE
+Construction protocol: RNA was extracted using Trizol (Thermo Fisher Scientific) phenol cholorform extraction. RNA quality was determined using an Agilent BioAnalyzer. RNA libraries were prepared for sequencing using the low-input poly-A BGISEQ-500RSRNASeq(Transcriptome) protocol.
+
+Study Type: Transcriptome Analysis
+Abstract: A Yap knockout zebrafish line was used to observe how loss of Yap affects cardiac regeneration. Overall design: Cryoinjury or sham surgeries were performed on 6-12 month old zebrafish ventricles. At 7 days post injury, whole hearts were collected and RNAseq was performed.
+Center Project: GSE112452

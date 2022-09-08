@@ -1,0 +1,10 @@
+Library:
+Instrument: Illumina HiSeq 2000
+Strategy: RNA-Seq
+Source: TRANSCRIPTOMIC
+Selection: cDNA
+Layout: PAIRED
+Construction protocol: Total RNA of each sample was extracted using TRIzol Reagent. Next generation sequencing library preparations were constructed according to the manufacturer's protocol (NEBNext Ultra RNA Library Prep Kit for Illumina). The poly(A) mRNA isolation was performed using NEBNext Poly(A) mRNA Magnetic Isolation Module (NEB). Constructed libraries with different indices were multiplexed and loaded on an Illumina HiSeq instrument according to manufacturer's instructions (Illumina, San Diego, CA, USA).
+Study Type: Transcriptome Analysis
+Abstract: The goal of this study is to understand the function of cardiac tbx20 during heart regeneration. By high-throughput sequencing, molecular variations of tbx20-cardiac specific inducing heart in response to heart injury compared with control hearts were demonstrated. We collected the injured heart apex tissue at 7 days post injury and sequenced the transcriptome. Overall design: RNA was extracted from ventricular apical portions at 7 days post injury from control hearts and tbx20-cardiac-specific inducing hearts. Tissue from 6-8 zebrafish were collected in each control group or cardiac-tbx20-overexpressing group, three replications were carried out.
+Center Project: GSE144831

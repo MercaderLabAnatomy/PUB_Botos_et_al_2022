@@ -1,0 +1,10 @@
+Library:
+Instrument: BGISEQ-500
+Strategy: RNA-Seq
+Source: TRANSCRIPTOMIC
+Selection: cDNA
+Layout: SINGLE
+Construction protocol: Zebrafish ventricles were collected and placed in cold PBS while still pumping to help decrease intra-ventricular blood. Atrium and outflow tract were removed and ventricles (5 per sample) were homogenized in Trizol using a Tissue Lyser II (QIAGEN). RNA was extracted using the standard Trizol protocol, genomic DNA removed using RNA clean and Concentrator Kit (Zymo Research) and processed for libraries preparation. Libraries were constructed by single-end 50-bp sequencing, with 30 M reads/sample was performed at BGI. RNA-Seq reads were trimmed by Trim Galore (0.6.4, with -q 15) and then mapped with TopHat (v 2.1.1, with parameters --b2-very-sensitive --no-coverage-search and supplying the UCSC danRer10 refSeq gene annotation). Gene-level read counts were obtained using the htseq-count (v1.6.1) by the reads with MAPQ greater than 30. DESeq2 (v 1.26.0) was employed for differential expression analysis.
+Study Type: Transcriptome Analysis
+Abstract: Transcriptome sequencing of uninjured and regenerating (7dpi) tp53M214K and tp53WT ventricles. Overall design: 4 experimental groups were analyzed in triplicates: 1) uninjured ventricle of tp53 mutant fish; 2) injured ventricle of tp53 mutant fish; 3) uninjured ventricle of tp53 wild type fish; 4) injured ventricle of tp53 wild type fish.
+Center Project: GSE146859

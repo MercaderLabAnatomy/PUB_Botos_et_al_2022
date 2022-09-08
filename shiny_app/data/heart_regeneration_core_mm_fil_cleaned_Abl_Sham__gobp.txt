@@ -1,0 +1,268 @@
+ID	Description	p.Val	FDR	Phenotype	Genes
+GO:0000280	nuclear division	5.65633286271278e-09	7.6370791581334e-06	1	Sycp1,Mad2l1,Nek2,Kif11,Aurka,Mis12,Ccnb1,Mastl,Birc5,Bub1,Incenp,Cdc20,Aspm,Sgo1,Ube2c
+GO:0000070	mitotic sister chromatid segregation	7.03955102474678e-09	7.6370791581334e-06	1	Mad2l1,Nek2,Mis12,Ccnb1,Birc5,Bub1,Incenp,Cdc20,Sgo1,Ube2c
+GO:0098813	nuclear chromosome segregation	1.20733244682083e-08	7.6370791581334e-06	1	Sycp1,Mad2l1,Nek2,Ect2,Mis12,Ccnb1,Birc5,Bub1,Incenp,Cdc20,Sgo1,Ube2c
+GO:0007059	chromosome segregation	1.42595218183962e-08	7.6370791581334e-06	1	Sycp1,Mad2l1,Nek2,Ect2,Mis12,Ccnb1,Birc5,Bub1,Oip5,Incenp,Cdc20,Sgo1,Ube2c
+GO:0140014	mitotic nuclear division	1.47662010018047e-08	7.6370791581334e-06	1	Mad2l1,Nek2,Kif11,Aurka,Mis12,Ccnb1,Birc5,Bub1,Incenp,Cdc20,Sgo1,Ube2c
+GO:0048285	organelle fission	2.54379378218017e-08	1.09637512011965e-05	1	Sycp1,Mad2l1,Nek2,Kif11,Aurka,Mis12,Ccnb1,Mastl,Birc5,Bub1,Incenp,Cdc20,Aspm,Sgo1,Ube2c
+GO:0000819	sister chromatid segregation	3.48547494921332e-08	1.28763403123795e-05	1	Mad2l1,Nek2,Mis12,Ccnb1,Birc5,Bub1,Incenp,Cdc20,Sgo1,Ube2c
+GO:0030198	extracellular matrix organization	5.07127283431819e-08	1.40644180717857e-05	1	Lox,Col8a1,Fn1,Sulf2,Scx,Loxl2,Fkbp10,Lum,Tgfbi,Ddr2,Sh3pxd2b,Postn
+GO:0043062	extracellular structure organization	5.25209849498076e-08	1.40644180717857e-05	1	Lox,Col8a1,Fn1,Sulf2,Scx,Loxl2,Fkbp10,Lum,Tgfbi,Ddr2,Sh3pxd2b,Postn
+GO:0045229	external encapsulating structure organization	5.43867674856371e-08	1.40644180717857e-05	1	Lox,Col8a1,Fn1,Sulf2,Scx,Loxl2,Fkbp10,Lum,Tgfbi,Ddr2,Sh3pxd2b,Postn
+GO:0061448	connective tissue development	2.06848423631981e-07	4.8628183955664e-05	1	Lox,Thbs1,Cbs,Sulf2,Mdk,Prrx1,Scx,Ctsk,Loxl2,Snai1,Sh3pxd2b
+GO:0030199	collagen fibril organization	4.69352275794331e-07	0.000101145415433678	1	Lox,Scx,Loxl2,Fkbp10,Lum,Ddr2
+GO:0008608	attachment of spindle microtubules to kinetochore	5.76306947001315e-07	0.000114640751149646	1	Nek2,Ect2,Mis12,Ccnb1,Sgo1
+GO:0048771	tissue remodeling	7.67987113455928e-07	0.000141858191099788	1	Cthrc1,Cbs,Thbs4,Mdk,Lrp1,Ctsk,P2rx7,Rspo3,Ddr2
+GO:0051216	cartilage development	1.14794232397482e-06	0.000187679121448835	1	Thbs1,Cbs,Sulf2,Mdk,Prrx1,Scx,Ctsk,Loxl2,Snai1
+GO:0001503	ossification	1.16120106078165e-06	0.000187679121448835	1	Cthrc1,Lox,Cbs,Fzd9,Ltf,Mdk,Glis1,Scx,Cbfb,P2rx7,Ddr2,Sh3pxd2b
+GO:0031577	spindle checkpoint signaling	2.82898189262615e-06	0.000430338069078308	1	Mad2l1,Aurka,Ccnb1,Birc5,Bub1
+GO:0072593	reactive oxygen species metabolic process	3.64412666455218e-06	0.000523539530807329	1	Foxm1,Thbs1,Cbs,Gnai2,P2rx7,Prdx1,Ier3,Sh3pxd2b,Vav1
+GO:0030111	regulation of Wnt signaling pathway	4.17865711617846e-06	0.000568737226444078	1	Cthrc1,Sulf2,Fzd9,Mdk,Lrp1,Rspo3,Dkk3,Amer2,Alpk2,Aspm
+GO:0051321	meiotic cell cycle	6.4408396328437e-06	0.000832800564526691	1	Sycp1,Nek2,Aurka,Ccnb3,Mastl,Bub1,Incenp,Cdc20,Aspm,Sgo1
+GO:0140013	meiotic nuclear division	7.12151671124329e-06	0.000876963915013102	1	Sycp1,Aurka,Mastl,Bub1,Incenp,Cdc20,Aspm,Sgo1
+GO:0030071	regulation of mitotic metaphase/anaphase transition	1.00778866375099e-05	0.00118460976566367	1	Mad2l1,Ccnb1,Birc5,Bub1,Ube2c
+GO:0031099	regeneration	1.13556125097762e-05	0.00127676582392527	1	Aurka,Sulf2,Fzd9,Mdk,Lrp1,Prrx1,Rtn4rl2
+GO:0007091	metaphase/anaphase transition of mitotic cell cycle	1.29302265381145e-05	0.00133750263310256	1	Mad2l1,Ccnb1,Birc5,Bub1,Ube2c
+GO:1902099	regulation of metaphase/anaphase transition of cell cycle	1.29302265381145e-05	0.00133750263310256	1	Mad2l1,Ccnb1,Birc5,Bub1,Ube2c
+GO:0010965	regulation of mitotic sister chromatid separation	1.4008962109695e-05	0.00136398484383599	1	Mad2l1,Ccnb1,Birc5,Bub1,Ube2c
+GO:1903046	meiotic cell cycle process	1.42411410609326e-05	0.00136398484383599	1	Sycp1,Aurka,Mastl,Bub1,Incenp,Cdc20,Aspm,Sgo1
+GO:0044784	metaphase/anaphase transition of cell cycle	1.63761924504335e-05	0.00151245834560075	1	Mad2l1,Ccnb1,Birc5,Bub1,Ube2c
+GO:0051306	mitotic sister chromatid separation	1.76708931821022e-05	0.00157575619892815	1	Mad2l1,Ccnb1,Birc5,Bub1,Ube2c
+GO:1905818	regulation of chromosome separation	2.20381637350801e-05	0.00189968971396391	1	Mad2l1,Ccnb1,Birc5,Bub1,Ube2c
+GO:0051225	spindle assembly	2.33776542986711e-05	0.0019125251470457	1	Nek2,Kif11,Aurka,Incenp,Cdc20,Aspm
+GO:0033045	regulation of sister chromatid segregation	2.36662044491348e-05	0.0019125251470457	1	Mad2l1,Ccnb1,Birc5,Bub1,Ube2c
+GO:0007100	mitotic centrosome separation	2.49801309956068e-05	0.00195753390165573	1	Nek2,Kif11,Aurka
+GO:0051299	centrosome separation	3.23568397540217e-05	0.00241066152297154	1	Nek2,Kif11,Aurka
+GO:0060828	regulation of canonical Wnt signaling pathway	3.26268960959026e-05	0.00241066152297154	1	Cthrc1,Sulf2,Fzd9,Mdk,Rspo3,Dkk3,Amer2,Aspm
+GO:0044770	cell cycle phase transition	3.45761404498457e-05	0.00245004982829271	1	Foxm1,Mad2l1,Aurka,Inhba,Ccnb3,Ccnb1,Mastl,Birc5,Bub1,Ier3,Ube2c
+GO:0044772	mitotic cell cycle phase transition	3.53526500022018e-05	0.00245004982829271	1	Foxm1,Mad2l1,Inhba,Ccnb3,Ccnb1,Mastl,Birc5,Bub1,Ier3,Ube2c
+GO:0007051	spindle organization	3.60022789927004e-05	0.00245004982829271	1	Nek2,Kif11,Aurka,Ccnb1,Incenp,Cdc20,Aspm
+GO:0051988	regulation of attachment of spindle microtubules to kinetochore	4.10326744776035e-05	0.00272078195382263	1	Nek2,Ect2,Ccnb1
+GO:0007094	mitotic spindle assembly checkpoint signaling	4.5078747136369e-05	0.00284325951450367	1	Mad2l1,Ccnb1,Birc5,Bub1
+GO:0071173	spindle assembly checkpoint signaling	4.5078747136369e-05	0.00284325951450367	1	Mad2l1,Ccnb1,Birc5,Bub1
+GO:0048705	skeletal system morphogenesis	4.81692897422976e-05	0.00296585198270432	1	Thbs1,Cbs,Ltf,Prrx1,Scx,Mthfd1l,P2rx7,Sh3pxd2b
+GO:0007135	meiosis II	5.11056076465326e-05	0.00300361594031667	1	Mastl,Bub1,Sgo1
+GO:0061983	meiosis II cell cycle process	5.11056076465326e-05	0.00300361594031667	1	Mastl,Bub1,Sgo1
+GO:0045841	negative regulation of mitotic metaphase/anaphase transition	5.47897771899848e-05	0.00303953518740532	1	Mad2l1,Ccnb1,Birc5,Bub1
+GO:0071174	mitotic spindle checkpoint signaling	5.47897771899848e-05	0.00303953518740532	1	Mad2l1,Ccnb1,Birc5,Bub1
+GO:0000086	G2/M transition of mitotic cell cycle	5.52429055715583e-05	0.00303953518740532	1	Foxm1,Ccnb3,Ccnb1,Mastl,Birc5,Ier3
+GO:0033046	negative regulation of sister chromatid segregation	6.01788192867611e-05	0.00304712506686281	1	Mad2l1,Ccnb1,Birc5,Bub1
+GO:0033048	negative regulation of mitotic sister chromatid segregation	6.01788192867611e-05	0.00304712506686281	1	Mad2l1,Ccnb1,Birc5,Bub1
+GO:2000816	negative regulation of mitotic sister chromatid separation	6.01788192867611e-05	0.00304712506686281	1	Mad2l1,Ccnb1,Birc5,Bub1
+GO:0034103	regulation of tissue remodeling	6.12724298054394e-05	0.00304712506686281	1	Thbs4,Mdk,Lrp1,P2rx7,Ddr2
+GO:0050766	positive regulation of phagocytosis	6.12724298054394e-05	0.00304712506686281	1	Mbl1,Lrp1,Rap1gap,Mex3b,C3
+GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle	6.59442384838196e-05	0.00321758114564448	1	Mad2l1,Ccnb1,Birc5,Bub1
+GO:0051983	regulation of chromosome segregation	6.85773817370865e-05	0.00328409461429826	1	Mad2l1,Ccnb1,Birc5,Bub1,Ube2c
+GO:1905819	negative regulation of chromosome separation	7.21018244927166e-05	0.00339009669342118	1	Mad2l1,Ccnb1,Birc5,Bub1
+GO:0045860	positive regulation of protein kinase activity	7.5071376555988e-05	0.00346668892453187	1	Ect2,Clu,Thbs1,Ltf,Hbegf,P2rx7,Incenp,Ddr2,Adra2b
+GO:0033047	regulation of mitotic sister chromatid segregation	7.8667575590932e-05	0.00350622506267612	1	Mad2l1,Ccnb1,Birc5,Bub1
+GO:0051985	negative regulation of chromosome segregation	7.8667575590932e-05	0.00350622506267612	1	Mad2l1,Ccnb1,Birc5,Bub1
+GO:0042060	wound healing	7.99950807029741e-05	0.00350622506267612	1	Lox,Myof,Fn1,Thbs1,Hbegf,Evl,Fkbp10,C3,Adra2b
+GO:0016055	Wnt signaling pathway	8.17657118870794e-05	0.00352410218233312	1	Cthrc1,Sulf2,Fzd9,Mdk,Lrp1,Rspo3,Dkk3,Amer2,Alpk2,Aspm
+GO:0198738	cell-cell signaling by wnt	8.48115106944309e-05	0.00359545191239014	1	Cthrc1,Sulf2,Fzd9,Mdk,Lrp1,Rspo3,Dkk3,Amer2,Alpk2,Aspm
+GO:0044839	cell cycle G2/M phase transition	8.88982864442796e-05	0.00364906299595091	1	Foxm1,Ccnb3,Ccnb1,Mastl,Birc5,Ier3
+GO:1902850	microtubule cytoskeleton organization involved in mitosis	8.88982864442796e-05	0.00364906299595091	1	Mad2l1,Nek2,Kif11,Aurka,Ccnb1,Cdc20
+GO:0045786	negative regulation of cell cycle	9.06606081776136e-05	0.0036632551991767	1	Mad2l1,Nek2,Aurka,Inhba,Mapk12,Ccnb1,Birc5,Bub1,Ier3
+GO:0010718	positive regulation of epithelial to mesenchymal transition	9.30885708317102e-05	0.00370349298724312	1	Glipr2,Mdk,Loxl2,Snai1
+GO:0090231	regulation of spindle checkpoint	0.000107275177356083	0.00416020376797294	1	Mad2l1,Aurka,Ccnb1
+GO:0060485	mesenchyme development	0.000107785635133096	0.00416020376797294	1	Fn1,Thbs1,Glipr2,Mdk,Scx,Loxl2,Snai1,Nrp2
+GO:0001649	osteoblast differentiation	0.000114590096194206	0.00430487233923453	1	Cthrc1,Lox,Ltf,Glis1,Cbfb,Ddr2,Sh3pxd2b
+GO:0051304	chromosome separation	0.000115707781536787	0.00430487233923453	1	Mad2l1,Ccnb1,Birc5,Bub1,Ube2c
+GO:0045732	positive regulation of protein catabolic process	0.000117857031767919	0.00430487233923453	1	Clu,Aurka,Lrp1,Sh3d19,Ier3,Cdc20,Trib1
+GO:0051438	regulation of ubiquitin-protein transferase activity	0.000118192550690507	0.00430487233923453	1	Mad2l1,Mastl,Cdc20,Trib1
+GO:0045785	positive regulation of cell adhesion	0.00012095635400758	0.00434434904810558	1	Col8a1,Fn1,Thbs1,Apbb1ip,Mdk,Cbfb,Rap1gap,Mex3b,Edil3,Vav1
+GO:0006909	phagocytosis	0.000125096345177161	0.00443149518668683	1	Thbs1,Mbl1,Lrp1,P2rx7,Rap1gap,Mex3b,Colec12,C3,Vav1
+GO:0045839	negative regulation of mitotic nuclear division	0.000127554143344175	0.00445750019848697	1	Mad2l1,Ccnb1,Birc5,Bub1
+GO:0010810	regulation of cell-substrate adhesion	0.000135347617527085	0.00461853367159168	1	Col8a1,Fn1,Thbs1,Mdk,Lrp1,Edil3,Postn
+GO:0060070	canonical Wnt signaling pathway	0.000135734168229299	0.00461853367159168	1	Cthrc1,Sulf2,Fzd9,Mdk,Rspo3,Dkk3,Amer2,Aspm
+GO:0007292	female gamete generation	0.000179477262791861	0.00602763898155522	1	Aurka,Inhba,Mdk,Ccnb1,Mastl,Aspm
+GO:0030178	negative regulation of Wnt signaling pathway	0.00018541941140316	0.00614736663959707	1	Cthrc1,Mdk,Lrp1,Dkk3,Amer2,Alpk2
+GO:1904666	regulation of ubiquitin protein ligase activity	0.000193249258104552	0.00632585546149839	1	Mad2l1,Mastl,Cdc20
+GO:0045927	positive regulation of growth	0.000201064147522114	0.00649939856865233	1	Fn1,Lrp1,Crabp2,Hbegf,Avpr1a,Ccnb1,C3,Sh3pxd2b
+GO:0060348	bone development	0.000211222921736092	0.00674348735320411	1	Lox,Thbs1,Cbs,Sulf2,Ltf,Scx,Sh3pxd2b
+GO:0060840	artery development	0.000238445902223224	0.00743880479052232	1	Lox,Mdk,Lrp1,Prrx1,Fkbp10
+GO:0000075	cell cycle checkpoint signaling	0.000238755142155202	0.00743880479052232	1	Mad2l1,Aurka,Ccnb1,Birc5,Bub1,Ier3
+GO:0010640	regulation of platelet-derived growth factor receptor signaling pathway	0.000249167323362951	0.00767079402638798	1	Lox,Lrp1,Ptgir
+GO:0051784	negative regulation of nuclear division	0.000252997462414542	0.00769707573887065	1	Mad2l1,Ccnb1,Birc5,Bub1
+GO:0050764	regulation of phagocytosis	0.000269589000494769	0.00801358939507349	1	Mbl1,Lrp1,Rap1gap,Mex3b,C3
+GO:0060041	retina development in camera-type eye	0.000269598715147484	0.00801358939507349	1	Fjx1,Nectin1,Rpe65,C3,Lama1,Slc4a5
+GO:0014812	muscle cell migration	0.000292003858000844	0.00856989072910693	1	Thbs4,Mdk,Lrp1,Postn,Trib1
+GO:0001654	eye development	0.000294942101659132	0.00856989072910693	1	Col8a1,Inhba,Fjx1,Nectin1,Rpe65,C3,Lama1,Sh3pxd2b,Slc4a5
+GO:0150063	visual system development	0.000310298363738419	0.00884866006426023	1	Col8a1,Inhba,Fjx1,Nectin1,Rpe65,C3,Lama1,Sh3pxd2b,Slc4a5
+GO:0051443	positive regulation of ubiquitin-protein transferase activity	0.000314596932043956	0.00884866006426023	1	Mastl,Cdc20,Trib1
+GO:0007052	mitotic spindle organization	0.000315804636901868	0.00884866006426023	1	Nek2,Kif11,Aurka,Ccnb1,Cdc20
+GO:0033674	positive regulation of kinase activity	0.000320899104150117	0.00884866006426023	1	Ect2,Clu,Thbs1,Ltf,Hbegf,P2rx7,Incenp,Ddr2,Adra2b
+GO:0033044	regulation of chromosome organization	0.000321645029404664	0.00884866006426023	1	Mad2l1,Nek2,Ccnb1,Birc5,Bub1,Ube2c
+GO:0051302	regulation of cell division	0.00033103562954669	0.00893780411906183	1	Ect2,Aurka,Thbs4,Mdk,Incenp,Aspm
+GO:0048880	sensory system development	0.000331797832726193	0.00893780411906183	1	Col8a1,Inhba,Fjx1,Nectin1,Rpe65,C3,Lama1,Sh3pxd2b,Slc4a5
+GO:0000281	mitotic cytokinesis	0.000341059734719358	0.00909258220602329	1	Ect2,Birc5,Incenp,Cep55
+GO:0071900	regulation of protein serine/threonine kinase activity	0.000352393544989497	0.00929887456472284	1	Thbs1,Cbs,Ltf,Ccnb3,P2rx7,Ccnb1,Incenp,Trib1
+GO:0006801	superoxide metabolic process	0.000360998582905875	0.00942972055954135	1	Cbs,Gnai2,Prdx1,Sh3pxd2b
+GO:0001667	ameboidal-type cell migration	0.0003723839609558	0.009629849230317	1	Fn1,Thbs1,Glipr2,Hbegf,Evl,Loxl2,Pkn3,Nrp2,Ddr2
+GO:0061035	regulation of cartilage development	0.000425812717170722	0.0109024919465692	1	Mdk,Scx,Ctsk,Loxl2
+GO:2000179	positive regulation of neural precursor cell proliferation	0.000449147790942685	0.0113872175233116	1	Fzd9,Gnai2,Mdk,Aspm
+GO:0018209	peptidyl-serine modification	0.000474017285978718	0.0118491822702499	1	Aurka,Mapk12,Txn1,Ccnb1,Mastl,Pkn3,Mast1,Mamdc2
+GO:0061036	positive regulation of cartilage development	0.000476533239020103	0.0118491822702499	1	Mdk,Scx,Loxl2
+GO:0031589	cell-substrate adhesion	0.000482625395413255	0.0118863740241779	1	Col8a1,Fn1,Thbs1,Mdk,Lrp1,Itgbl1,Edil3,Postn
+GO:1903036	positive regulation of response to wounding	0.000498530281853094	0.0121622576308689	1	Thbs1,Mdk,Lrp1,Hbegf
+GO:0046890	regulation of lipid biosynthetic process	0.000512706847825718	0.012383254141297	1	Ccdc3,Mid1ip1,Avpr1a,Snai1,Dkk3,C3
+GO:0010948	negative regulation of cell cycle process	0.000517166066225861	0.012383254141297	1	Mad2l1,Nek2,Aurka,Ccnb1,Birc5,Bub1,Ier3
+GO:0140694	non-membrane-bounded organelle assembly	0.000546501920929274	0.0129656327295698	1	Nek2,Kif11,Aurka,Mis12,Incenp,Cdc20,Sh3pxd2b,Aspm
+GO:0051642	centrosome localization	0.00057425845544213	0.0135002942343032	1	Mad2l1,Aurka,Aspm
+GO:0007093	mitotic cell cycle checkpoint signaling	0.000582162339380347	0.013562809095834	1	Mad2l1,Ccnb1,Birc5,Bub1,Ier3
+GO:1901987	regulation of cell cycle phase transition	0.000596191297170177	0.0137656312007328	1	Mad2l1,Aurka,Ccnb3,Ccnb1,Birc5,Bub1,Ier3,Ube2c
+GO:0061842	microtubule organizing center localization	0.00062756673084307	0.0142055188114942	1	Mad2l1,Aurka,Aspm
+GO:0043010	camera-type eye development	0.000627717814976205	0.0142055188114942	1	Col8a1,Inhba,Fjx1,Nectin1,Rpe65,C3,Lama1,Slc4a5
+GO:0070192	chromosome organization involved in meiotic cell cycle	0.00063872419765111	0.0142055188114942	1	Sycp1,Bub1,Incenp,Sgo1
+GO:1904888	cranial skeletal system development	0.00063872419765111	0.0142055188114942	1	Prrx1,Mthfd1l,Cep55,Sh3pxd2b
+GO:0010811	positive regulation of cell-substrate adhesion	0.000642709087759019	0.0142055188114942	1	Col8a1,Fn1,Thbs1,Mdk,Edil3
+GO:1901990	regulation of mitotic cell cycle phase transition	0.000648316839666303	0.0142080283676022	1	Mad2l1,Ccnb3,Ccnb1,Birc5,Bub1,Ier3,Ube2c
+GO:0048844	artery morphogenesis	0.000669790108684941	0.0145552707652039	1	Mdk,Lrp1,Prrx1,Fkbp10
+GO:0042176	regulation of protein catabolic process	0.000718424046656315	0.0153305508267117	1	Mad2l1,Clu,Aurka,Lrp1,Sh3d19,Ier3,Cdc20,Trib1
+GO:0007409	axonogenesis	0.000721614000495059	0.0153305508267117	1	Fn1,Cdh11,Lama3,Lrp1,Crabp2,Evl,Nectin1,Nrp2,Lama1
+GO:0051783	regulation of nuclear division	0.000730630348776568	0.0153305508267117	1	Mad2l1,Ccnb1,Birc5,Bub1,Cdc20
+GO:1903364	positive regulation of cellular protein catabolic process	0.000730630348776568	0.0153305508267117	1	Clu,Aurka,Lrp1,Cdc20,Trib1
+GO:0051303	establishment of chromosome localization	0.000735107618914248	0.0153305508267117	1	Mis12,Ccnb1,Birc5,Incenp
+GO:0097242	amyloid-beta clearance	0.000743426724989777	0.0153800120865885	1	Clu,Lrp1,C3
+GO:0050000	chromosome localization	0.000804805316229044	0.0165176710140342	1	Mis12,Ccnb1,Birc5,Incenp
+GO:0051098	regulation of binding	0.000819417236596038	0.0165694388054838	1	Dzip1,Cthrc1,Lox,Nek2,Aurka,Lrp1,Txn1,Rap1gap
+GO:0048639	positive regulation of developmental growth	0.000820142369335626	0.0165694388054838	1	Fn1,Lrp1,Crabp2,Ccnb1,C3,Sh3pxd2b
+GO:0001819	positive regulation of cytokine production	0.000868588767392206	0.0172149903774115	1	Clu,Thbs1,Sulf2,Mdk,Lrp1,P2rx7,Lum,C3,Postn
+GO:0001953	negative regulation of cell-matrix adhesion	0.000872066411230047	0.0172149903774115	1	Thbs1,Lrp1,Postn
+GO:1901976	regulation of cell cycle checkpoint	0.000872066411230047	0.0172149903774115	1	Mad2l1,Aurka,Ccnb1
+GO:2001251	negative regulation of chromosome organization	0.000879042591880123	0.0172212435045606	1	Mad2l1,Ccnb1,Birc5,Bub1
+GO:0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	0.000957979038768957	0.018626569881628	1	Clu,Aurka,Cdc20,Trib1
+GO:0042398	cellular modified amino acid biosynthetic process	0.00101401497228751	0.0195689755099664	1	Plod2,Mthfd1l,Ckb
+GO:0002934	desmosome organization	0.00105816576389233	0.0199738442731792	1	Nectin1,Pkp3
+GO:0070601	centromeric sister chromatid cohesion	0.00105816576389233	0.0199738442731792	1	Bub1,Sgo1
+GO:0090306	meiotic spindle assembly	0.00105816576389233	0.0199738442731792	1	Aurka,Aspm
+GO:0018149	peptide cross-linking	0.00109014024345422	0.0204282802142942	1	Fn1,Thbs1,Mamdc2
+GO:0048762	mesenchymal cell differentiation	0.00117558709333874	0.0215853395607031	1	Fn1,Glipr2,Mdk,Loxl2,Snai1,Nrp2
+GO:0010717	regulation of epithelial to mesenchymal transition	0.0011769268669989	0.0215853395607031	1	Glipr2,Mdk,Loxl2,Snai1
+GO:0061640	cytoskeleton-dependent cytokinesis	0.0011769268669989	0.0215853395607031	1	Ect2,Birc5,Incenp,Cep55
+GO:0014910	regulation of smooth muscle cell migration	0.00122458001961183	0.0223011544416634	1	Mdk,Lrp1,Postn,Trib1
+GO:0010749	regulation of nitric oxide mediated signal transduction	0.00128913525604878	0.0229910604975321	1	Thbs1,Cbs
+GO:0051901	positive regulation of mitochondrial depolarization	0.00128913525604878	0.0229910604975321	1	P2rx7,Mllt11
+GO:0097421	liver regeneration	0.00128913525604878	0.0229910604975321	1	Aurka,Sulf2
+GO:1901988	negative regulation of cell cycle phase transition	0.00130784135495063	0.0231649160541256	1	Mad2l1,Aurka,Ccnb1,Birc5,Bub1,Ier3
+GO:0007229	integrin-mediated signaling pathway	0.00132390924478442	0.0232899952857993	1	Fn1,Lama3,Itgbl1,Vav1
+GO:0031214	biomineral tissue development	0.00149842969444823	0.0261820215529941	1	Lox,Fzd9,P2rx7,Nectin1,Ddr2
+GO:0090068	positive regulation of cell cycle process	0.0015117592852558	0.0262376477293389	1	Mad2l1,Ect2,Aurka,Ccnb1,Birc5,Ube2c
+GO:0018105	peptidyl-serine phosphorylation	0.00153337059281908	0.0263409612263614	1	Aurka,Mapk12,Txn1,Ccnb1,Mastl,Pkn3,Mast1
+GO:1901991	negative regulation of mitotic cell cycle phase transition	0.00153808396952072	0.0263409612263614	1	Mad2l1,Ccnb1,Birc5,Bub1,Ier3
+GO:0007596	blood coagulation	0.00157850520716641	0.0266798331093617	1	Fn1,Thbs1,Evl,C3,Adra2b
+GO:0110148	biomineralization	0.00157850520716641	0.0266798331093617	1	Lox,Fzd9,P2rx7,Nectin1,Ddr2
+GO:0001704	formation of primary germ layer	0.00165550868895479	0.0276202933524973	1	Fn1,Inhba,Scx,Snai1
+GO:2000060	positive regulation of ubiquitin-dependent protein catabolic process	0.00165550868895479	0.0276202933524973	1	Clu,Aurka,Cdc20,Trib1
+GO:0007599	hemostasis	0.0017044603131984	0.0277043253008208	1	Fn1,Thbs1,Evl,C3,Adra2b
+GO:0050817	coagulation	0.0017044603131984	0.0277043253008208	1	Fn1,Thbs1,Evl,C3,Adra2b
+GO:0007411	axon guidance	0.00170509216225546	0.0277043253008208	1	Lama3,Lrp1,Evl,Nectin1,Nrp2,Lama1
+GO:0033002	muscle cell proliferation	0.00170509216225546	0.0277043253008208	1	Thbs1,Gnai2,Hbegf,Ptgir,Ccnb1,Trib1
+GO:0014909	smooth muscle cell migration	0.00171588447571214	0.0277043253008208	1	Mdk,Lrp1,Postn,Trib1
+GO:0043277	apoptotic cell clearance	0.0017248245836938	0.0277043253008208	1	Thbs1,Lrp1,C3
+GO:0097485	neuron projection guidance	0.00173905853516944	0.0277605269873345	1	Lama3,Lrp1,Evl,Nectin1,Nrp2,Lama1
+GO:0007213	G protein-coupled acetylcholine receptor signaling pathway	0.00181644072493312	0.0279602125873635	1	Gnai2,Chrm4
+GO:0018158	protein oxidation	0.00181644072493312	0.0279602125873635	1	Lox,Loxl2
+GO:0045144	meiotic sister chromatid segregation	0.00181644072493312	0.0279602125873635	1	Bub1,Sgo1
+GO:0051177	meiotic sister chromatid cohesion	0.00181644072493312	0.0279602125873635	1	Bub1,Sgo1
+GO:1904181	positive regulation of membrane depolarization	0.00181644072493312	0.0279602125873635	1	P2rx7,Mllt11
+GO:2000343	positive regulation of chemokine (C-X-C motif) ligand 2 production	0.00181644072493312	0.0279602125873635	1	Lrp1,Postn
+GO:0046849	bone remodeling	0.00184119229580062	0.0281735105144402	1	Cthrc1,Mdk,Ctsk,P2rx7
+GO:0001906	cell killing	0.00188008947362165	0.0285994786987387	1	Ltf,Mbl1,P2rx7,Prdx1,C3,Vav1
+GO:0048660	regulation of smooth muscle cell proliferation	0.0019305638498817	0.0291955445368075	1	Thbs1,Gnai2,Hbegf,Ptgir,Trib1
+GO:1901800	positive regulation of proteasomal protein catabolic process	0.00197270534539422	0.0296593954836596	1	Clu,Aurka,Cdc20,Trib1
+GO:0060349	bone morphogenesis	0.00204083747839019	0.0303310673512474	1	Thbs1,Cbs,Ltf,Scx
+GO:0090263	positive regulation of canonical Wnt signaling pathway	0.00204083747839019	0.0303310673512474	1	Sulf2,Fzd9,Rspo3,Aspm
+GO:0048477	oogenesis	0.0021105791867199	0.0305168524269463	1	Aurka,Mdk,Ccnb1,Aspm
+GO:0010457	centriole-centriole cohesion	0.00211234206667571	0.0305168524269463	1	Nek2,Sgo1
+GO:0010642	negative regulation of platelet-derived growth factor receptor signaling pathway	0.00211234206667571	0.0305168524269463	1	Lrp1,Ptgir
+GO:0035791	platelet-derived growth factor receptor-beta signaling pathway	0.00211234206667571	0.0305168524269463	1	Lox,Lrp1
+GO:0048672	positive regulation of collateral sprouting	0.00211234206667571	0.0305168524269463	1	Lrp1,Crabp2
+GO:0000910	cytokinesis	0.0021266593477469	0.0305530059626305	1	Ect2,Aurka,Birc5,Incenp,Cep55
+GO:0007088	regulation of mitotic nuclear division	0.00218194977568077	0.0311741553586213	1	Mad2l1,Ccnb1,Birc5,Bub1
+GO:0048659	smooth muscle cell proliferation	0.00222997829304968	0.0316852959660795	1	Thbs1,Gnai2,Hbegf,Ptgir,Trib1
+GO:0010639	negative regulation of organelle organization	0.00225220471778718	0.0316921114961774	1	Mad2l1,Evl,Mid1ip1,Ccnb1,Birc5,Bub1,Ier3
+GO:1901989	positive regulation of cell cycle phase transition	0.00225496849006058	0.0316921114961774	1	Aurka,Ccnb1,Birc5,Ube2c
+GO:0050878	regulation of body fluid levels	0.00232215602559567	0.0324599755794075	1	Fn1,Thbs1,Gnai2,Evl,C3,Adra2b,Slc4a5
+GO:0032956	regulation of actin cytoskeleton organization	0.00239377347108778	0.0328930449309718	1	Ect2,Rnd3,Mdk,Arpc1b,Lrp1,Evl,Sh3pxd2b
+GO:0050673	epithelial cell proliferation	0.00240277649662984	0.0328930449309718	1	Col8a1,Thbs1,Sulf2,Thbs4,Mdk,Loxl2,Rap1gap,Birc5
+GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	0.00240602695789202	0.0328930449309718	1	Clu,Snai1,Uaca,Ier3
+GO:0014049	positive regulation of glutamate secretion	0.00242945536806482	0.0328930449309718	1	P2rx7,Avpr1a
+GO:0033690	positive regulation of osteoblast proliferation	0.00242945536806482	0.0328930449309718	1	Cthrc1,Ltf
+GO:0035815	positive regulation of renal sodium excretion	0.00242945536806482	0.0328930449309718	1	Gnai2,Avpr1a
+GO:0048588	developmental cell growth	0.00248736919886427	0.0335017538972032	1	Fn1,Aurka,Lrp1,Crabp2,Nrp2,Postn
+GO:0007062	sister chromatid cohesion	0.00255136026644197	0.0338278783323845	1	Bub1,Cdc20,Sgo1
+GO:1901607	alpha-amino acid biosynthetic process	0.00255136026644197	0.0338278783323845	1	Cbs,Plod2,Agxt2
+GO:0002062	chondrocyte differentiation	0.00256390725179712	0.0338278783323845	1	Sulf2,Mdk,Scx,Loxl2
+GO:0003014	renal system process	0.00256390725179712	0.0338278783323845	1	Sulf2,Gnai2,Avpr1a,Slc4a5
+GO:0001974	blood vessel remodeling	0.00268612988128363	0.0352605678832461	1	Cbs,Lrp1,Rspo3
+GO:0060560	developmental growth involved in morphogenesis	0.00271936650785492	0.0355165746934991	1	Fn1,Aurka,Lrp1,Crabp2,Nrp2,Postn
+GO:0009070	serine family amino acid biosynthetic process	0.00276756726348582	0.0355610885143474	1	Cbs,Agxt2
+GO:0035590	purinergic nucleotide receptor signaling pathway	0.00276756726348582	0.0355610885143474	1	Gnai2,P2rx7
+GO:0071731	response to nitric oxide	0.00276756726348582	0.0355610885143474	1	Thbs1,Txn1
+GO:0010720	positive regulation of cell development	0.0027777803093187	0.0355610885143474	1	Fn1,Aurka,Mdk,Lrp1,Crabp2,Aspm,Trib1
+GO:0035567	non-canonical Wnt signaling pathway	0.00282521513605898	0.0358137565776888	1	Cthrc1,Fzd9,Rspo3
+GO:0071622	regulation of granulocyte chemotaxis	0.00282521513605898	0.0358137565776888	1	Thbs1,Thbs4,Mdk
+GO:0032963	collagen metabolic process	0.00290073834012784	0.0365917529149785	1	Fn1,Scx,Ctsk,P2rx7
+GO:0051055	negative regulation of lipid biosynthetic process	0.00296866099642741	0.0372667831881615	1	Ccdc3,Snai1,Dkk3
+GO:2000177	regulation of neural precursor cell proliferation	0.00298944510713228	0.0373464011934497	1	Fzd9,Gnai2,Mdk,Aspm
+GO:0017015	regulation of transforming growth factor beta receptor signaling pathway	0.00307998863313228	0.0382925509869234	1	Lox,Thbs1,Htra3,Lrp1
+GO:0007096	regulation of exit from mitosis	0.0031264659498284	0.0383177296031102	1	Birc5,Ube2c
+GO:0090266	regulation of mitotic cell cycle spindle assembly checkpoint	0.0031264659498284	0.0383177296031102	1	Mad2l1,Ccnb1
+GO:1903504	regulation of mitotic spindle checkpoint	0.0031264659498284	0.0383177296031102	1	Mad2l1,Ccnb1
+GO:0009896	positive regulation of catabolic process	0.00321211306757828	0.0391817188337615	1	Clu,Aurka,Lrp1,P2rx7,Sh3d19,Ier3,Cdc20,Trib1
+GO:0030282	bone mineralization	0.00326665962165867	0.0393169371045461	1	Lox,Fzd9,P2rx7,Ddr2
+GO:1903052	positive regulation of proteolysis involved in cellular protein catabolic process	0.00326665962165867	0.0393169371045461	1	Clu,Aurka,Cdc20,Trib1
+GO:0007588	excretion	0.00326880954272135	0.0393169371045461	1	Gnai2,Mdk,Avpr1a
+GO:1903844	regulation of cellular response to transforming growth factor beta stimulus	0.00336282369852409	0.0402604726128856	1	Lox,Thbs1,Htra3,Lrp1
+GO:1990138	neuron projection extension	0.00340202055653312	0.0404502041734975	1	Fn1,Aurka,Lrp1,Nrp2,Postn
+GO:0010812	negative regulation of cell-substrate adhesion	0.00342559733719875	0.0404502041734975	1	Thbs1,Lrp1,Postn
+GO:0031102	neuron projection regeneration	0.00342559733719875	0.0404502041734975	1	Lrp1,Prrx1,Rtn4rl2
+GO:0031145	anaphase-promoting complex-dependent catabolic process	0.00350594117644339	0.0405055227558535	1	Cdc20,Ube2c
+GO:0044406	adhesion of symbiont to host	0.00350594117644339	0.0405055227558535	1	Ltf,Nectin1
+GO:1900221	regulation of amyloid-beta clearance	0.00350594117644339	0.0405055227558535	1	Clu,Lrp1
+GO:0046394	carboxylic acid biosynthetic process	0.00351326560808038	0.0405055227558535	1	Cbs,Plod2,Mid1ip1,Mthfd1l,Avpr1a,Agxt2
+GO:2000241	regulation of reproductive process	0.00354692814333313	0.0405055227558535	1	Aurka,Inhba,Snai1,Cdc20,Aspm
+GO:0003073	regulation of systemic arterial blood pressure	0.00356089988815218	0.0405055227558535	1	Avpr1a,Ier3,Postn,Slc4a5
+GO:0016053	organic acid biosynthetic process	0.00357171290892432	0.0405055227558535	1	Cbs,Plod2,Mid1ip1,Mthfd1l,Avpr1a,Agxt2
+GO:0008652	cellular amino acid biosynthetic process	0.00358691597489964	0.0405055227558535	1	Cbs,Plod2,Agxt2
+GO:0021872	forebrain generation of neurons	0.00358691597489964	0.0405055227558535	1	Inhba,Nrp2,Aspm
+GO:0045995	regulation of embryonic development	0.00358691597489964	0.0405055227558535	1	Lama3,Scx,Lama1
+GO:0030307	positive regulation of cell growth	0.00362102131267025	0.0407128744111533	1	Fn1,Lrp1,Crabp2,Hbegf,Avpr1a
+GO:0071621	granulocyte chemotaxis	0.00366284807579245	0.0410048706666635	1	Thbs1,Thbs4,Mdk,Vav1
+GO:0090287	regulation of cellular response to growth factor stimulus	0.00375139989948705	0.0414503911801104	1	Lox,Myof,Thbs1,Htra3,Sulf2,Lrp1
+GO:0014911	positive regulation of smooth muscle cell migration	0.0037528056602977	0.0414503911801104	1	Mdk,Lrp1,Postn
+GO:0001889	liver development	0.00376676021938358	0.0414503911801104	1	Foxm1,Aurka,Sulf2,Mdk
+GO:0007098	centrosome cycle	0.00376676021938358	0.0414503911801104	1	Nek2,Kif11,Aurka,Sgo1
+GO:0046822	regulation of nucleocytoplasmic transport	0.00387265412011097	0.0419242499109387	1	Ect2,Txn1,Uaca,Ier3
+GO:2001233	regulation of apoptotic signaling pathway	0.00389226352711828	0.0419242499109387	1	Clu,Thbs1,Inhba,Gnai2,Snai1,Bub1,Ier3
+GO:0000212	meiotic spindle organization	0.00390578423515954	0.0419242499109387	1	Aurka,Aspm
+GO:0040037	negative regulation of fibroblast growth factor receptor signaling pathway	0.00390578423515954	0.0419242499109387	1	Thbs1,Sulf2
+GO:0006081	cellular aldehyde metabolic process	0.00392330567612033	0.0419242499109387	1	Rpe65,Dkk3,Agxt2
+GO:0048008	platelet-derived growth factor receptor signaling pathway	0.00392330567612033	0.0419242499109387	1	Lox,Lrp1,Ptgir
+GO:0051310	metaphase plate congression	0.00392330567612033	0.0419242499109387	1	Mis12,Ccnb1,Incenp
+GO:0061008	hepaticobiliary system development	0.00409045790903326	0.0435305520689712	1	Foxm1,Aurka,Sulf2,Mdk
+GO:0045216	cell-cell junction organization	0.00417113092646941	0.0442071499010242	1	Ect2,Cdh11,Nectin1,Snai1,Pkp3
+GO:0010631	epithelial cell migration	0.00419671160331017	0.0442669611545561	1	Thbs1,Glipr2,Hbegf,Evl,Loxl2,Pkn3
+GO:0097193	intrinsic apoptotic signaling pathway	0.00426338350076259	0.0442669611545561	1	Clu,Snai1,Uaca,Mllt11,Bub1,Ier3
+GO:0001707	mesoderm formation	0.00427828928092659	0.0442669611545561	1	Inhba,Scx,Snai1
+GO:0060350	endochondral bone morphogenesis	0.00427828928092659	0.0442669611545561	1	Thbs1,Cbs,Scx
+GO:0090307	mitotic spindle assembly	0.00427828928092659	0.0442669611545561	1	Nek2,Kif11,Cdc20
+GO:0032434	regulation of proteasomal ubiquitin-dependent protein catabolic process	0.00431639987559044	0.0442669611545561	1	Clu,Aurka,Cdc20,Trib1
+GO:0090090	negative regulation of canonical Wnt signaling pathway	0.00431639987559044	0.0442669611545561	1	Cthrc1,Mdk,Dkk3,Amer2
+GO:0010763	positive regulation of fibroblast migration	0.00432578795036	0.0442669611545561	1	Thbs1,Ddr2
+GO:0090132	epithelium migration	0.00433083572007065	0.0442669611545561	1	Thbs1,Glipr2,Hbegf,Evl,Loxl2,Pkn3
+GO:0090130	tissue migration	0.00446810294010058	0.0454902133980319	1	Thbs1,Glipr2,Hbegf,Evl,Loxl2,Pkn3
+GO:0008217	regulation of blood pressure	0.00451100006417799	0.0457468477096638	1	Avpr1a,Ier3,Adra2b,Postn,Slc4a5
+GO:0043393	regulation of protein binding	0.00459895849062089	0.0463724832360952	1	Dzip1,Cthrc1,Lox,Aurka,Lrp1
+GO:0060326	cell chemotaxis	0.0046085569186684	0.0463724832360952	1	Lox,Thbs1,Thbs4,Mdk,Hbegf,Vav1
+GO:0035904	aorta development	0.00465216299281272	0.0465773821141727	1	Lox,Lrp1,Fkbp10
+GO:0030278	regulation of ossification	0.00467087507767758	0.0465773821141727	1	Fzd9,Mdk,P2rx7,Ddr2
+GO:0032970	regulation of actin filament-based process	0.00468295411820762	0.0465773821141727	1	Ect2,Rnd3,Mdk,Arpc1b,Lrp1,Evl,Sh3pxd2b
+GO:0051900	regulation of mitochondrial depolarization	0.00476574666911795	0.04721923711241	1	P2rx7,Mllt11
+GO:0007188	adenylate cyclase-modulating G protein-coupled receptor signaling pathway	0.00496302841773687	0.0487999676359982	1	Gnai2,Ptgir,Gpr161,Chrm4,Adra2b
+GO:2001020	regulation of response to DNA damage stimulus	0.00496302841773687	0.0487999676359982	1	Foxm1,Clu,Parpbp,Snai1,Ier3
+GO:0030177	positive regulation of Wnt signaling pathway	0.00504443441288062	0.0490485346100767	1	Sulf2,Fzd9,Rspo3,Aspm
+GO:0048146	positive regulation of fibroblast proliferation	0.00504520889647347	0.0490485346100767	1	Fn1,Ccnb1,Ddr2
+GO:0048332	mesoderm morphogenesis	0.00504520889647347	0.0490485346100767	1	Inhba,Scx,Snai1
+GO:0090596	sensory organ morphogenesis	0.00512587249375643	0.0496460908945847	1	Cthrc1,Col8a1,Prrx1,Fjx1,Nectin1,Rpe65

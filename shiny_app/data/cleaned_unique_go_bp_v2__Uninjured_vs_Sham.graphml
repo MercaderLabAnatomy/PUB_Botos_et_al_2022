@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="SUID" attr.type="long" for="node" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="node" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="node" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="node" id="selected"/>
+    <key attr.name="__glayCluster" attr.type="int" for="node" id="__glayCluster"/>
+    <key attr.name="__mclCluster" attr.type="int" for="node" id="__mclCluster"/>
+    <key attr.name="EnrichmentMap::Name" attr.type="string" for="node" id="EnrichmentMap::Name"/>
+    <key attr.name="EnrichmentMap::GS_DESCR" attr.type="string" for="node" id="EnrichmentMap::GS_DESCR"/>
+    <key attr.name="EnrichmentMap::GS_Type" attr.type="string" for="node" id="EnrichmentMap::GS_Type"/>
+    <key attr.name="EnrichmentMap::Genes" attr.type="string" for="node" id="EnrichmentMap::Genes"/>
+    <key attr.name="EnrichmentMap::gs_size" attr.type="int" for="node" id="EnrichmentMap::gs_size"/>
+    <key attr.name="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)" attr.type="double" for="node" id="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)"/>
+    <key attr.name="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)" attr.type="double" for="node" id="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)"/>
+    <key attr.name="EnrichmentMap::fwer_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)" attr.type="double" for="node" id="EnrichmentMap::fwer_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)"/>
+    <key attr.name="EnrichmentMap::ES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)" attr.type="double" for="node" id="EnrichmentMap::ES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)"/>
+    <key attr.name="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)" attr.type="double" for="node" id="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)"/>
+    <key attr.name="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)" attr.type="double" for="node" id="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)"/>
+    <key attr.name="SUID" attr.type="long" for="edge" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="edge" id="shared name"/>
+    <key attr.name="shared interaction" attr.type="string" for="edge" id="shared interaction"/>
+    <key attr.name="name" attr.type="string" for="edge" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="edge" id="selected"/>
+    <key attr.name="interaction" attr.type="string" for="edge" id="interaction"/>
+    <key attr.name="EnrichmentMap::similarity_coefficient" attr.type="double" for="edge" id="EnrichmentMap::similarity_coefficient"/>
+    <key attr.name="EnrichmentMap::Overlap_size" attr.type="int" for="edge" id="EnrichmentMap::Overlap_size"/>
+    <key attr.name="EnrichmentMap::Data Set" attr.type="string" for="edge" id="EnrichmentMap::Data Set"/>
+    <key attr.name="EnrichmentMap::Overlap_genes" attr.type="string" for="edge" id="EnrichmentMap::Overlap_genes"/>
+    <key attr.name="SUID" attr.type="long" for="graph" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="graph" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="graph" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="graph" id="selected"/>
+    <key attr.name="__Annotations" attr.type="string" for="graph" id="__Annotations"/>
+    <key attr.name="__clusterAttribute" attr.type="string" for="graph" id="__clusterAttribute"/>
+    <key attr.name="__clusterParams" attr.type="string" for="graph" id="__clusterParams"/>
+    <key attr.name="__clusterType" attr.type="string" for="graph" id="__clusterType"/>
+    <key attr.name="__MCLGroups.SUID" attr.type="string" for="graph" id="__MCLGroups.SUID"/>
+    <key attr.name="glay" attr.type="string" for="graph" id="glay"/>
+    <key attr.name="Use Stemming" attr.type="boolean" for="graph" id="Use Stemming"/>
+    <key attr.name="Cloud Counter" attr.type="int" for="graph" id="Cloud Counter"/>
+    <key attr.name="Cloud Network UID" attr.type="int" for="graph" id="Cloud Network UID"/>
+    <graph edgedefault="directed" id="cleaned_unique_go_bp_v2__Uninjured_vs_Sham">
+        <node id="229300">
+            <data key="SUID">229300</data>
+            <data key="shared name">GO:0046939</data>
+            <data key="name">GO:0046939</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">6</data>
+            <data key="__mclCluster">1</data>
+            <data key="EnrichmentMap::Name">GO:0046939</data>
+            <data key="EnrichmentMap::GS_DESCR">nucleotide phosphorylation</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[GUK1, FOXK1, ACTN3, OGDH, ALDOB, TKFC, HDAC4]</data>
+            <data key="EnrichmentMap::gs_size">7</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">2.46496304356465E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0238387873292108</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9997535036956435</data>
+        </node>
+        <node id="229298">
+            <data key="SUID">229298</data>
+            <data key="shared name">GO:1901185</data>
+            <data key="name">GO:1901185</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">8</data>
+            <data key="__mclCluster">5</data>
+            <data key="EnrichmentMap::Name">GO:1901185</data>
+            <data key="EnrichmentMap::GS_DESCR">negative regulation of ERBB signaling pathway</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[RNF126, ZFYVE28, ERRFI1, SOCS5]</data>
+            <data key="EnrichmentMap::gs_size">4</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">3.48704049568756E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0291247132310268</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9996512959504312</data>
+        </node>
+        <node id="229296">
+            <data key="SUID">229296</data>
+            <data key="shared name">GO:0007175</data>
+            <data key="name">GO:0007175</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">8</data>
+            <data key="__mclCluster">5</data>
+            <data key="EnrichmentMap::Name">GO:0007175</data>
+            <data key="EnrichmentMap::GS_DESCR">negative regulation of epidermal growth factor-activated receptor activity</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[ERRFI1, ZFYVE28, SOCS5]</data>
+            <data key="EnrichmentMap::gs_size">3</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">4.75363017211581E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0336006331266095</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9995246369827884</data>
+        </node>
+        <node id="229294">
+            <data key="SUID">229294</data>
+            <data key="shared name">GO:0009132</data>
+            <data key="name">GO:0009132</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">6</data>
+            <data key="__mclCluster">1</data>
+            <data key="EnrichmentMap::Name">GO:0009132</data>
+            <data key="EnrichmentMap::GS_DESCR">nucleoside diphosphate metabolic process</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[GUK1, FOXK1, ACTN3, OGDH, ALDOB, TKFC, HDAC4, NUDT7]</data>
+            <data key="EnrichmentMap::gs_size">8</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.14330916366547E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0175069215686274</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9998856690836334</data>
+        </node>
+        <node id="229292">
+            <data key="SUID">229292</data>
+            <data key="shared name">GO:0097191</data>
+            <data key="name">GO:0097191</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">3</data>
+            <data key="__mclCluster">3</data>
+            <data key="EnrichmentMap::Name">GO:0097191</data>
+            <data key="EnrichmentMap::GS_DESCR">extrinsic apoptotic signaling pathway</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[MAPK7, PEA15A, RFFL, TNFAIP3, RIPK1, SRC, BMPR1B, BMP4, SRPX, ZC3HC1]</data>
+            <data key="EnrichmentMap::gs_size">10</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">4.09153042611542E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0319922857786684</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9995908469573884</data>
+        </node>
+        <node id="229290">
+            <data key="SUID">229290</data>
+            <data key="shared name">GO:0002062</data>
+            <data key="name">GO:0002062</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">2</data>
+            <data key="__mclCluster">2</data>
+            <data key="EnrichmentMap::Name">GO:0002062</data>
+            <data key="EnrichmentMap::GS_DESCR">chondrocyte differentiation</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[SOX6, PTH1R, RFLNA, RARG, BMPR1B, BMP4, SMPD3]</data>
+            <data key="EnrichmentMap::gs_size">7</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">5.08470855981308E-5</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0119066029933662</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9999491529144019</data>
+        </node>
+        <node id="229288">
+            <data key="SUID">229288</data>
+            <data key="shared name">GO:0051492</data>
+            <data key="name">GO:0051492</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">1</data>
+            <data key="__mclCluster">4</data>
+            <data key="EnrichmentMap::Name">GO:0051492</data>
+            <data key="EnrichmentMap::GS_DESCR">regulation of stress fiber assembly</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[TESK1, ARHGEF18, SYNPO, INPP5K, PHLDB2, PPM1E]</data>
+            <data key="EnrichmentMap::gs_size">6</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">8.78582982356529E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0461256065737177</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9991214170176435</data>
+        </node>
+        <node id="229286">
+            <data key="SUID">229286</data>
+            <data key="shared name">GO:0009179</data>
+            <data key="name">GO:0009179</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">6</data>
+            <data key="__mclCluster">1</data>
+            <data key="EnrichmentMap::Name">GO:0009179</data>
+            <data key="EnrichmentMap::GS_DESCR">purine ribonucleoside diphosphate metabolic process</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[GUK1, FOXK1, ACTN3, OGDH, ALDOB, TKFC, HDAC4]</data>
+            <data key="EnrichmentMap::gs_size">7</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.95658199605939E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0231316394184635</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.999804341800394</data>
+        </node>
+        <node id="229284">
+            <data key="SUID">229284</data>
+            <data key="shared name">GO:0009135</data>
+            <data key="name">GO:0009135</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">6</data>
+            <data key="__mclCluster">1</data>
+            <data key="EnrichmentMap::Name">GO:0009135</data>
+            <data key="EnrichmentMap::GS_DESCR">purine nucleoside diphosphate metabolic process</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[GUK1, FOXK1, ACTN3, OGDH, ALDOB, TKFC, HDAC4]</data>
+            <data key="EnrichmentMap::gs_size">7</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.95658199605939E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0231316394184635</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.999804341800394</data>
+        </node>
+        <node id="229282">
+            <data key="SUID">229282</data>
+            <data key="shared name">GO:0042059</data>
+            <data key="name">GO:0042059</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">8</data>
+            <data key="__mclCluster">5</data>
+            <data key="EnrichmentMap::Name">GO:0042059</data>
+            <data key="EnrichmentMap::GS_DESCR">negative regulation of epidermal growth factor receptor signaling pathway</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[RNF126, ZFYVE28, ERRFI1, SOCS5]</data>
+            <data key="EnrichmentMap::gs_size">4</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">2.65203920717172E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0249903694521951</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9997347960792828</data>
+        </node>
+        <node id="229280">
+            <data key="SUID">229280</data>
+            <data key="shared name">GO:0043149</data>
+            <data key="name">GO:0043149</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">1</data>
+            <data key="__mclCluster">4</data>
+            <data key="EnrichmentMap::Name">GO:0043149</data>
+            <data key="EnrichmentMap::GS_DESCR">stress fiber assembly</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[ARRB1, TESK1, ARHGEF18, SYNPO, INPP5K, SRC, PHLDB2, PPM1E]</data>
+            <data key="EnrichmentMap::gs_size">8</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">5.08470855981308E-5</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0119066029933662</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9999491529144019</data>
+        </node>
+        <node id="229278">
+            <data key="SUID">229278</data>
+            <data key="shared name">GO:0048286</data>
+            <data key="name">GO:0048286</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">2</data>
+            <data key="__mclCluster">2</data>
+            <data key="EnrichmentMap::Name">GO:0048286</data>
+            <data key="EnrichmentMap::GS_DESCR">lung alveolus development</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[RC3H2, ERRFI1, BMP4, TMEM38B, CREB1, SMPD3]</data>
+            <data key="EnrichmentMap::gs_size">6</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.02541511947178E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0171290934729945</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9998974584880528</data>
+        </node>
+        <node id="229276">
+            <data key="SUID">229276</data>
+            <data key="shared name">GO:0110148</data>
+            <data key="name">GO:0110148</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">2</data>
+            <data key="__mclCluster">2</data>
+            <data key="EnrichmentMap::Name">GO:0110148</data>
+            <data key="EnrichmentMap::GS_DESCR">biomineralization</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[PTH1R, ACTN3, OC90, RFLNA, BMPR1B, ATP2B1, BMP4, TMEM38B, OTOP1, SMPD3]</data>
+            <data key="EnrichmentMap::gs_size">10</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">2.56290797254068E-5</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.00997681939044854</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9999743709202746</data>
+        </node>
+        <node id="229274">
+            <data key="SUID">229274</data>
+            <data key="shared name">GO:0006757</data>
+            <data key="name">GO:0006757</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">6</data>
+            <data key="__mclCluster">1</data>
+            <data key="EnrichmentMap::Name">GO:0006757</data>
+            <data key="EnrichmentMap::GS_DESCR">ATP generation from ADP</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[FOXK1, ACTN3, OGDH, ALDOB, TKFC, HDAC4]</data>
+            <data key="EnrichmentMap::gs_size">6</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">6.66840020019049E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0406306381827993</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.999333159979981</data>
+        </node>
+        <node id="229272">
+            <data key="SUID">229272</data>
+            <data key="shared name">GO:0046365</data>
+            <data key="name">GO:0046365</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">6</data>
+            <data key="__mclCluster">1</data>
+            <data key="EnrichmentMap::Name">GO:0046365</data>
+            <data key="EnrichmentMap::GS_DESCR">monosaccharide catabolic process</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[FOXK1, ACTN3, ALDOB, TKFC]</data>
+            <data key="EnrichmentMap::gs_size">4</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">3.04910787952243E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0269032458015776</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9996950892120477</data>
+        </node>
+        <node id="229270">
+            <data key="SUID">229270</data>
+            <data key="shared name">GO:0071498</data>
+            <data key="name">GO:0071498</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">3</data>
+            <data key="__mclCluster">7</data>
+            <data key="EnrichmentMap::Name">GO:0071498</data>
+            <data key="EnrichmentMap::GS_DESCR">cellular response to fluid shear stress</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[MAPK7, PKD2, SOCS5, SRC]</data>
+            <data key="EnrichmentMap::gs_size">4</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">3.40050341951298E-5</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0113607727879184</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9999659949658048</data>
+        </node>
+        <node id="229268">
+            <data key="SUID">229268</data>
+            <data key="shared name">GO:0019320</data>
+            <data key="name">GO:0019320</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">6</data>
+            <data key="__mclCluster">1</data>
+            <data key="EnrichmentMap::Name">GO:0019320</data>
+            <data key="EnrichmentMap::GS_DESCR">hexose catabolic process</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[FOXK1, ACTN3, ALDOB, TKFC]</data>
+            <data key="EnrichmentMap::gs_size">4</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.97120498167199E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0231316394184635</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9998028795018328</data>
+        </node>
+        <node id="229266">
+            <data key="SUID">229266</data>
+            <data key="shared name">GO:0070301</data>
+            <data key="name">GO:0070301</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">3</data>
+            <data key="__mclCluster">3</data>
+            <data key="EnrichmentMap::Name">GO:0070301</data>
+            <data key="EnrichmentMap::GS_DESCR">cellular response to hydrogen peroxide</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[MAPK7, STAT6, TNFAIP3, RIPK1, SRC, SMPD3]</data>
+            <data key="EnrichmentMap::gs_size">6</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">5.94210875176967E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0389950886834885</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.999405789124823</data>
+        </node>
+        <node id="229264">
+            <data key="SUID">229264</data>
+            <data key="shared name">GO:0034405</data>
+            <data key="name">GO:0034405</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">3</data>
+            <data key="__mclCluster">7</data>
+            <data key="EnrichmentMap::Name">GO:0034405</data>
+            <data key="EnrichmentMap::GS_DESCR">response to fluid shear stress</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[MAPK7, PKD2, SOCS5, SRC]</data>
+            <data key="EnrichmentMap::gs_size">4</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.42626645408142E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0209661168749969</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9998573733545919</data>
+        </node>
+        <node id="229262">
+            <data key="SUID">229262</data>
+            <data key="shared name">GO:0031214</data>
+            <data key="name">GO:0031214</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">2</data>
+            <data key="__mclCluster">2</data>
+            <data key="EnrichmentMap::Name">GO:0031214</data>
+            <data key="EnrichmentMap::GS_DESCR">biomineral tissue development</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[PTH1R, ACTN3, OC90, RFLNA, BMPR1B, ATP2B1, BMP4, TMEM38B, OTOP1, SMPD3]</data>
+            <data key="EnrichmentMap::gs_size">10</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">2.31488309791944E-5</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.00997681939044854</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9999768511690208</data>
+        </node>
+        <node id="229260">
+            <data key="SUID">229260</data>
+            <data key="shared name">GO:0009185</data>
+            <data key="name">GO:0009185</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">6</data>
+            <data key="__mclCluster">1</data>
+            <data key="EnrichmentMap::Name">GO:0009185</data>
+            <data key="EnrichmentMap::GS_DESCR">ribonucleoside diphosphate metabolic process</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[GUK1, FOXK1, ACTN3, OGDH, ALDOB, TKFC, HDAC4]</data>
+            <data key="EnrichmentMap::gs_size">7</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">3.07465666303744E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0269032458015776</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9996925343336962</data>
+        </node>
+        <node id="229258">
+            <data key="SUID">229258</data>
+            <data key="shared name">GO:0039694</data>
+            <data key="name">GO:0039694</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">7</data>
+            <data key="EnrichmentMap::Name">GO:0039694</data>
+            <data key="EnrichmentMap::GS_DESCR">viral RNA genome replication</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[FBXL2, INPP5K, TRIM28]</data>
+            <data key="EnrichmentMap::gs_size">3</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">4.49493863950562E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0331362150268699</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9995505061360495</data>
+        </node>
+        <node id="229256">
+            <data key="SUID">229256</data>
+            <data key="shared name">GO:0030282</data>
+            <data key="name">GO:0030282</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">2</data>
+            <data key="__mclCluster">2</data>
+            <data key="EnrichmentMap::Name">GO:0030282</data>
+            <data key="EnrichmentMap::GS_DESCR">bone mineralization</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[PTH1R, ACTN3, RFLNA, BMPR1B, ATP2B1, BMP4, TMEM38B, SMPD3]</data>
+            <data key="EnrichmentMap::gs_size">8</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">8.18954771610947E-5</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0156657253440727</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9999181045228389</data>
+        </node>
+        <node id="229254">
+            <data key="SUID">229254</data>
+            <data key="shared name">GO:0006096</data>
+            <data key="name">GO:0006096</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">6</data>
+            <data key="__mclCluster">1</data>
+            <data key="EnrichmentMap::Name">GO:0006096</data>
+            <data key="EnrichmentMap::GS_DESCR">glycolytic process</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[FOXK1, ACTN3, OGDH, ALDOB, TKFC, HDAC4]</data>
+            <data key="EnrichmentMap::gs_size">6</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">6.29714273445654E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0405664584495644</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9993702857265544</data>
+        </node>
+        <node id="229252">
+            <data key="SUID">229252</data>
+            <data key="shared name">GO:0007565</data>
+            <data key="name">GO:0007565</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">5</data>
+            <data key="__mclCluster">6</data>
+            <data key="EnrichmentMap::Name">GO:0007565</data>
+            <data key="EnrichmentMap::GS_DESCR">female pregnancy</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[STAT5B, ZSCAN4B, TRIM28, IL11RA1, TLE6, RXRA]</data>
+            <data key="EnrichmentMap::gs_size">6</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">7.09666759603055E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0413972276435115</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.999290333240397</data>
+        </node>
+        <node id="229250">
+            <data key="SUID">229250</data>
+            <data key="shared name">GO:0007566</data>
+            <data key="name">GO:0007566</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">5</data>
+            <data key="__mclCluster">6</data>
+            <data key="EnrichmentMap::Name">GO:0007566</data>
+            <data key="EnrichmentMap::GS_DESCR">embryo implantation</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[ZSCAN4B, TRIM28, RXRA]</data>
+            <data key="EnrichmentMap::gs_size">3</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.66606013898864E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0231316394184635</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9998333939861012</data>
+        </node>
+        <node id="229248">
+            <data key="SUID">229248</data>
+            <data key="shared name">GO:0006730</data>
+            <data key="name">GO:0006730</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">4</data>
+            <data key="EnrichmentMap::Name">GO:0006730</data>
+            <data key="EnrichmentMap::GS_DESCR">one-carbon metabolic process</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[CAR11, SFXN3, CAR9, SFXN1]</data>
+            <data key="EnrichmentMap::gs_size">4</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">8.52556481310079E-5</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0156657253440727</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.999914744351869</data>
+        </node>
+        <node id="229246">
+            <data key="SUID">229246</data>
+            <data key="shared name">GO:0045778</data>
+            <data key="name">GO:0045778</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">2</data>
+            <data key="__mclCluster">2</data>
+            <data key="EnrichmentMap::Name">GO:0045778</data>
+            <data key="EnrichmentMap::GS_DESCR">positive regulation of ossification</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[ACTN3, BMPR1B, ATP2B1, BMP4]</data>
+            <data key="EnrichmentMap::gs_size">4</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">5.02882189722174E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0342239268005369</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9994971178102778</data>
+        </node>
+        <node id="229244">
+            <data key="SUID">229244</data>
+            <data key="shared name">GO:2001236</data>
+            <data key="name">GO:2001236</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">3</data>
+            <data key="__mclCluster">3</data>
+            <data key="EnrichmentMap::Name">GO:2001236</data>
+            <data key="EnrichmentMap::GS_DESCR">regulation of extrinsic apoptotic signaling pathway</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[MAPK7, PEA15A, RFFL, TNFAIP3, RIPK1, SRC, BMPR1B, BMP4, SRPX, ZC3HC1]</data>
+            <data key="EnrichmentMap::gs_size">10</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">2.31488309791944E-5</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.00997681939044854</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9999768511690208</data>
+        </node>
+        <node id="229242">
+            <data key="SUID">229242</data>
+            <data key="shared name">GO:2001237</data>
+            <data key="name">GO:2001237</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">3</data>
+            <data key="__mclCluster">3</data>
+            <data key="EnrichmentMap::Name">GO:2001237</data>
+            <data key="EnrichmentMap::GS_DESCR">negative regulation of extrinsic apoptotic signaling pathway</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[MAPK7, PEA15A, RFFL, TNFAIP3, RIPK1, SRC, BMP4, ZC3HC1]</data>
+            <data key="EnrichmentMap::gs_size">8</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">2.29769750295037E-5</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.00997681939044854</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9999770230249705</data>
+        </node>
+        <node id="229240">
+            <data key="SUID">229240</data>
+            <data key="shared name">GO:0051216</data>
+            <data key="name">GO:0051216</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">2</data>
+            <data key="__mclCluster">2</data>
+            <data key="EnrichmentMap::Name">GO:0051216</data>
+            <data key="EnrichmentMap::GS_DESCR">cartilage development</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[SOX6, PTH1R, RFLNA, RARG, BMPR1B, BMP4, SMPD3]</data>
+            <data key="EnrichmentMap::gs_size">7</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">7.33282834076036E-4</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0421064752379599</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.999266717165924</data>
+        </node>
+        <node id="229238">
+            <data key="SUID">229238</data>
+            <data key="shared name">GO:0030038</data>
+            <data key="name">GO:0030038</data>
+            <data key="selected">false</data>
+            <data key="__glayCluster">1</data>
+            <data key="__mclCluster">4</data>
+            <data key="EnrichmentMap::Name">GO:0030038</data>
+            <data key="EnrichmentMap::GS_DESCR">contractile actin filament bundle assembly</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[ARRB1, TESK1, ARHGEF18, SYNPO, INPP5K, SRC, PHLDB2, PPM1E]</data>
+            <data key="EnrichmentMap::gs_size">8</data>
+            <data key="EnrichmentMap::pvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">5.08470855981308E-5</data>
+            <data key="EnrichmentMap::fdr_qvalue (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.0119066029933662</data>
+            <data key="EnrichmentMap::NES (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">1.0</data>
+            <data key="EnrichmentMap::Colouring (cleaned_unique_go_bp_v2__Uninjured_vs_Sham)">0.9999491529144019</data>
+        </node>
+        <edge source="229300" target="229268">
+            <data key="SUID">229432</data>
+            <data key="shared name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0019320</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0019320</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.7857142857142857</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, TKFC, ALDOB, ACTN3]</data>
+        </edge>
+        <edge source="229300" target="229274">
+            <data key="SUID">229430</data>
+            <data key="shared name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006757</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006757</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9285714285714286</data>
+            <data key="EnrichmentMap::Overlap_size">6</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3]</data>
+        </edge>
+        <edge source="229300" target="229272">
+            <data key="SUID">229428</data>
+            <data key="shared name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0046365</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0046365</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.7857142857142857</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, TKFC, ALDOB, ACTN3]</data>
+        </edge>
+        <edge source="229300" target="229284">
+            <data key="SUID">229426</data>
+            <data key="shared name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009135</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009135</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">1.0</data>
+            <data key="EnrichmentMap::Overlap_size">7</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3, GUK1]</data>
+        </edge>
+        <edge source="229300" target="229286">
+            <data key="SUID">229424</data>
+            <data key="shared name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009179</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009179</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">1.0</data>
+            <data key="EnrichmentMap::Overlap_size">7</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3, GUK1]</data>
+        </edge>
+        <edge source="229300" target="229254">
+            <data key="SUID">229422</data>
+            <data key="shared name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006096</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006096</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9285714285714286</data>
+            <data key="EnrichmentMap::Overlap_size">6</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3]</data>
+        </edge>
+        <edge source="229300" target="229260">
+            <data key="SUID">229420</data>
+            <data key="shared name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009185</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009185</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">1.0</data>
+            <data key="EnrichmentMap::Overlap_size">7</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3, GUK1]</data>
+        </edge>
+        <edge source="229300" target="229294">
+            <data key="SUID">229418</data>
+            <data key="shared name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0046939 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9375</data>
+            <data key="EnrichmentMap::Overlap_size">7</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3, GUK1]</data>
+        </edge>
+        <edge source="229298" target="229296">
+            <data key="SUID">229416</data>
+            <data key="shared name">GO:1901185 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0007175</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:1901185 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0007175</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.875</data>
+            <data key="EnrichmentMap::Overlap_size">3</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ZFYVE28, ERRFI1, SOCS5]</data>
+        </edge>
+        <edge source="229298" target="229282">
+            <data key="SUID">229414</data>
+            <data key="shared name">GO:1901185 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0042059</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:1901185 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0042059</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">1.0</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ZFYVE28, RNF126, ERRFI1, SOCS5]</data>
+        </edge>
+        <edge source="229296" target="229282">
+            <data key="SUID">229412</data>
+            <data key="shared name">GO:0007175 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0042059</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0007175 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0042059</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.875</data>
+            <data key="EnrichmentMap::Overlap_size">3</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ERRFI1, ZFYVE28, SOCS5]</data>
+        </edge>
+        <edge source="229290" target="229240">
+            <data key="SUID">229410</data>
+            <data key="shared name">GO:0002062 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0051216</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0002062 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0051216</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">1.0</data>
+            <data key="EnrichmentMap::Overlap_size">7</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[SOX6, PTH1R, RFLNA, BMPR1B, RARG, BMP4, SMPD3]</data>
+        </edge>
+        <edge source="229290" target="229256">
+            <data key="SUID">229408</data>
+            <data key="shared name">GO:0002062 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0030282</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0002062 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0030282</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.6071428571428572</data>
+            <data key="EnrichmentMap::Overlap_size">5</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[PTH1R, RFLNA, BMPR1B, BMP4, SMPD3]</data>
+        </edge>
+        <edge source="229290" target="229262">
+            <data key="SUID">229406</data>
+            <data key="shared name">GO:0002062 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0031214</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0002062 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0031214</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.5654761904761905</data>
+            <data key="EnrichmentMap::Overlap_size">5</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[PTH1R, RFLNA, BMPR1B, BMP4, SMPD3]</data>
+        </edge>
+        <edge source="229286" target="229274">
+            <data key="SUID">229404</data>
+            <data key="shared name">GO:0009179 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006757</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0009179 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006757</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9285714285714286</data>
+            <data key="EnrichmentMap::Overlap_size">6</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3]</data>
+        </edge>
+        <edge source="229286" target="229272">
+            <data key="SUID">229402</data>
+            <data key="shared name">GO:0009179 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0046365</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0009179 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0046365</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.7857142857142857</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, TKFC, ALDOB, ACTN3]</data>
+        </edge>
+        <edge source="229286" target="229294">
+            <data key="SUID">229400</data>
+            <data key="shared name">GO:0009179 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0009179 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9375</data>
+            <data key="EnrichmentMap::Overlap_size">7</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3, GUK1]</data>
+        </edge>
+        <edge source="229286" target="229254">
+            <data key="SUID">229398</data>
+            <data key="shared name">GO:0009179 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006096</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0009179 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006096</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9285714285714286</data>
+            <data key="EnrichmentMap::Overlap_size">6</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3]</data>
+        </edge>
+        <edge source="229284" target="229286">
+            <data key="SUID">229396</data>
+            <data key="shared name">GO:0009135 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009179</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0009135 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009179</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">1.0</data>
+            <data key="EnrichmentMap::Overlap_size">7</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3, GUK1]</data>
+        </edge>
+        <edge source="229284" target="229274">
+            <data key="SUID">229394</data>
+            <data key="shared name">GO:0009135 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006757</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0009135 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006757</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9285714285714286</data>
+            <data key="EnrichmentMap::Overlap_size">6</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3]</data>
+        </edge>
+        <edge source="229284" target="229272">
+            <data key="SUID">229392</data>
+            <data key="shared name">GO:0009135 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0046365</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0009135 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0046365</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.7857142857142857</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, TKFC, ALDOB, ACTN3]</data>
+        </edge>
+        <edge source="229284" target="229294">
+            <data key="SUID">229390</data>
+            <data key="shared name">GO:0009135 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0009135 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9375</data>
+            <data key="EnrichmentMap::Overlap_size">7</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3, GUK1]</data>
+        </edge>
+        <edge source="229284" target="229254">
+            <data key="SUID">229388</data>
+            <data key="shared name">GO:0009135 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006096</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0009135 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006096</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9285714285714286</data>
+            <data key="EnrichmentMap::Overlap_size">6</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3]</data>
+        </edge>
+        <edge source="229284" target="229260">
+            <data key="SUID">229386</data>
+            <data key="shared name">GO:0009135 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009185</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0009135 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009185</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">1.0</data>
+            <data key="EnrichmentMap::Overlap_size">7</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3, GUK1]</data>
+        </edge>
+        <edge source="229280" target="229288">
+            <data key="SUID">229384</data>
+            <data key="shared name">GO:0043149 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0051492</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0043149 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0051492</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.875</data>
+            <data key="EnrichmentMap::Overlap_size">6</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[INPP5K, PPM1E, PHLDB2, TESK1, ARHGEF18, SYNPO]</data>
+        </edge>
+        <edge source="229276" target="229262">
+            <data key="SUID">229382</data>
+            <data key="shared name">GO:0110148 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0031214</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0110148 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0031214</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">1.0</data>
+            <data key="EnrichmentMap::Overlap_size">10</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[PTH1R, RFLNA, BMPR1B, ATP2B1, OTOP1, BMP4, ACTN3, SMPD3, OC90, TMEM38B]</data>
+        </edge>
+        <edge source="229276" target="229246">
+            <data key="SUID">229380</data>
+            <data key="shared name">GO:0110148 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0045778</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0110148 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0045778</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.7</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[BMPR1B, ATP2B1, BMP4, ACTN3]</data>
+        </edge>
+        <edge source="229276" target="229290">
+            <data key="SUID">229378</data>
+            <data key="shared name">GO:0110148 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0002062</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0110148 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0002062</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.5654761904761905</data>
+            <data key="EnrichmentMap::Overlap_size">5</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[PTH1R, RFLNA, BMPR1B, BMP4, SMPD3]</data>
+        </edge>
+        <edge source="229276" target="229240">
+            <data key="SUID">229376</data>
+            <data key="shared name">GO:0110148 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0051216</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0110148 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0051216</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.5654761904761905</data>
+            <data key="EnrichmentMap::Overlap_size">5</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[PTH1R, RFLNA, BMPR1B, BMP4, SMPD3]</data>
+        </edge>
+        <edge source="229276" target="229256">
+            <data key="SUID">229374</data>
+            <data key="shared name">GO:0110148 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0030282</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0110148 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0030282</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9</data>
+            <data key="EnrichmentMap::Overlap_size">8</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[PTH1R, RFLNA, BMPR1B, ATP2B1, BMP4, ACTN3, SMPD3, TMEM38B]</data>
+        </edge>
+        <edge source="229274" target="229272">
+            <data key="SUID">229372</data>
+            <data key="shared name">GO:0006757 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0046365</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0006757 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0046365</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.8333333333333333</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ALDOB, FOXK1, ACTN3, TKFC]</data>
+        </edge>
+        <edge source="229274" target="229294">
+            <data key="SUID">229370</data>
+            <data key="shared name">GO:0006757 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0006757 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.875</data>
+            <data key="EnrichmentMap::Overlap_size">6</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ALDOB, FOXK1, ACTN3, OGDH, HDAC4, TKFC]</data>
+        </edge>
+        <edge source="229272" target="229294">
+            <data key="SUID">229368</data>
+            <data key="shared name">GO:0046365 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0046365 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.75</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ALDOB, TKFC, FOXK1, ACTN3]</data>
+        </edge>
+        <edge source="229268" target="229254">
+            <data key="SUID">229366</data>
+            <data key="shared name">GO:0019320 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006096</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0019320 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006096</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.8333333333333333</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ALDOB, TKFC, FOXK1, ACTN3]</data>
+        </edge>
+        <edge source="229268" target="229260">
+            <data key="SUID">229364</data>
+            <data key="shared name">GO:0019320 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009185</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0019320 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009185</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.7857142857142857</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ALDOB, TKFC, FOXK1, ACTN3]</data>
+        </edge>
+        <edge source="229268" target="229274">
+            <data key="SUID">229362</data>
+            <data key="shared name">GO:0019320 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006757</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0019320 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006757</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.8333333333333333</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ALDOB, TKFC, FOXK1, ACTN3]</data>
+        </edge>
+        <edge source="229268" target="229284">
+            <data key="SUID">229360</data>
+            <data key="shared name">GO:0019320 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009135</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0019320 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009135</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.7857142857142857</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ALDOB, TKFC, FOXK1, ACTN3]</data>
+        </edge>
+        <edge source="229268" target="229286">
+            <data key="SUID">229358</data>
+            <data key="shared name">GO:0019320 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009179</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0019320 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009179</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.7857142857142857</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ALDOB, TKFC, FOXK1, ACTN3]</data>
+        </edge>
+        <edge source="229268" target="229272">
+            <data key="SUID">229356</data>
+            <data key="shared name">GO:0019320 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0046365</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0019320 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0046365</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">1.0</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ALDOB, TKFC, FOXK1, ACTN3]</data>
+        </edge>
+        <edge source="229268" target="229294">
+            <data key="SUID">229354</data>
+            <data key="shared name">GO:0019320 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0019320 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.75</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ALDOB, TKFC, FOXK1, ACTN3]</data>
+        </edge>
+        <edge source="229266" target="229270">
+            <data key="SUID">229352</data>
+            <data key="shared name">GO:0070301 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0071498</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0070301 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0071498</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.375</data>
+            <data key="EnrichmentMap::Overlap_size">2</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[MAPK7, SRC]</data>
+        </edge>
+        <edge source="229266" target="229242">
+            <data key="SUID">229350</data>
+            <data key="shared name">GO:0070301 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:2001237</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0070301 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:2001237</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.5333333333333333</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[MAPK7, TNFAIP3, RIPK1, SRC]</data>
+        </edge>
+        <edge source="229266" target="229292">
+            <data key="SUID">229348</data>
+            <data key="shared name">GO:0070301 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0097191</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0070301 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0097191</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.5</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[MAPK7, TNFAIP3, RIPK1, SRC]</data>
+        </edge>
+        <edge source="229266" target="229264">
+            <data key="SUID">229346</data>
+            <data key="shared name">GO:0070301 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0034405</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0070301 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0034405</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.375</data>
+            <data key="EnrichmentMap::Overlap_size">2</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[MAPK7, SRC]</data>
+        </edge>
+        <edge source="229264" target="229270">
+            <data key="SUID">229344</data>
+            <data key="shared name">GO:0034405 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0071498</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0034405 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0071498</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">1.0</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[MAPK7, PKD2, SRC, SOCS5]</data>
+        </edge>
+        <edge source="229260" target="229272">
+            <data key="SUID">229342</data>
+            <data key="shared name">GO:0009185 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0046365</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0009185 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0046365</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.7857142857142857</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, TKFC, ALDOB, ACTN3]</data>
+        </edge>
+        <edge source="229260" target="229294">
+            <data key="SUID">229340</data>
+            <data key="shared name">GO:0009185 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0009185 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9375</data>
+            <data key="EnrichmentMap::Overlap_size">7</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3, GUK1]</data>
+        </edge>
+        <edge source="229260" target="229254">
+            <data key="SUID">229338</data>
+            <data key="shared name">GO:0009185 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006096</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0009185 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006096</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9285714285714286</data>
+            <data key="EnrichmentMap::Overlap_size">6</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3]</data>
+        </edge>
+        <edge source="229260" target="229274">
+            <data key="SUID">229336</data>
+            <data key="shared name">GO:0009185 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006757</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0009185 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006757</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9285714285714286</data>
+            <data key="EnrichmentMap::Overlap_size">6</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3]</data>
+        </edge>
+        <edge source="229260" target="229286">
+            <data key="SUID">229334</data>
+            <data key="shared name">GO:0009179 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009185</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0009179 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009185</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">1.0</data>
+            <data key="EnrichmentMap::Overlap_size">7</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[FOXK1, OGDH, HDAC4, TKFC, ALDOB, ACTN3, GUK1]</data>
+        </edge>
+        <edge source="229256" target="229262">
+            <data key="SUID">229332</data>
+            <data key="shared name">GO:0030282 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0031214</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0030282 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0031214</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9</data>
+            <data key="EnrichmentMap::Overlap_size">8</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[PTH1R, RFLNA, BMPR1B, ATP2B1, BMP4, ACTN3, SMPD3, TMEM38B]</data>
+        </edge>
+        <edge source="229256" target="229278">
+            <data key="SUID">229330</data>
+            <data key="shared name">GO:0030282 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0048286</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0030282 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0048286</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.38636363636363635</data>
+            <data key="EnrichmentMap::Overlap_size">3</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[BMP4, SMPD3, TMEM38B]</data>
+        </edge>
+        <edge source="229254" target="229274">
+            <data key="SUID">229328</data>
+            <data key="shared name">GO:0006096 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006757</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0006096 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0006757</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">1.0</data>
+            <data key="EnrichmentMap::Overlap_size">6</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ALDOB, FOXK1, ACTN3, OGDH, HDAC4, TKFC]</data>
+        </edge>
+        <edge source="229254" target="229272">
+            <data key="SUID">229326</data>
+            <data key="shared name">GO:0006096 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0046365</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0006096 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0046365</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.8333333333333333</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ALDOB, FOXK1, ACTN3, TKFC]</data>
+        </edge>
+        <edge source="229254" target="229294">
+            <data key="SUID">229324</data>
+            <data key="shared name">GO:0006096 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0006096 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0009132</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.875</data>
+            <data key="EnrichmentMap::Overlap_size">6</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ALDOB, FOXK1, ACTN3, OGDH, HDAC4, TKFC]</data>
+        </edge>
+        <edge source="229250" target="229252">
+            <data key="SUID">229322</data>
+            <data key="shared name">GO:0007566 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0007565</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0007566 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0007565</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.75</data>
+            <data key="EnrichmentMap::Overlap_size">3</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[RXRA, ZSCAN4B, TRIM28]</data>
+        </edge>
+        <edge source="229246" target="229262">
+            <data key="SUID">229320</data>
+            <data key="shared name">GO:0045778 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0031214</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0045778 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0031214</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.7</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[BMP4, BMPR1B, ACTN3, ATP2B1]</data>
+        </edge>
+        <edge source="229246" target="229256">
+            <data key="SUID">229318</data>
+            <data key="shared name">GO:0045778 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0030282</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0045778 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0030282</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.75</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[BMP4, BMPR1B, ACTN3, ATP2B1]</data>
+        </edge>
+        <edge source="229244" target="229292">
+            <data key="SUID">229316</data>
+            <data key="shared name">GO:2001236 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0097191</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:2001236 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0097191</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">1.0</data>
+            <data key="EnrichmentMap::Overlap_size">10</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[MAPK7, SRPX, PEA15A, BMPR1B, TNFAIP3, RFFL, RIPK1, ZC3HC1, SRC, BMP4]</data>
+        </edge>
+        <edge source="229244" target="229266">
+            <data key="SUID">229314</data>
+            <data key="shared name">GO:2001236 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0070301</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:2001236 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0070301</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.5</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[MAPK7, TNFAIP3, RIPK1, SRC]</data>
+        </edge>
+        <edge source="229244" target="229242">
+            <data key="SUID">229312</data>
+            <data key="shared name">GO:2001236 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:2001237</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:2001236 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:2001237</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9</data>
+            <data key="EnrichmentMap::Overlap_size">8</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[MAPK7, PEA15A, TNFAIP3, RFFL, RIPK1, ZC3HC1, SRC, BMP4]</data>
+        </edge>
+        <edge source="229242" target="229292">
+            <data key="SUID">229310</data>
+            <data key="shared name">GO:2001237 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0097191</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:2001237 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0097191</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.9</data>
+            <data key="EnrichmentMap::Overlap_size">8</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[MAPK7, PEA15A, TNFAIP3, RFFL, RIPK1, ZC3HC1, SRC, BMP4]</data>
+        </edge>
+        <edge source="229240" target="229262">
+            <data key="SUID">229308</data>
+            <data key="shared name">GO:0051216 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0031214</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0051216 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0031214</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.5654761904761905</data>
+            <data key="EnrichmentMap::Overlap_size">5</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[PTH1R, RFLNA, BMPR1B, BMP4, SMPD3]</data>
+        </edge>
+        <edge source="229240" target="229256">
+            <data key="SUID">229306</data>
+            <data key="shared name">GO:0051216 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0030282</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0051216 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0030282</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.6071428571428572</data>
+            <data key="EnrichmentMap::Overlap_size">5</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[PTH1R, RFLNA, BMPR1B, BMP4, SMPD3]</data>
+        </edge>
+        <edge source="229238" target="229288">
+            <data key="SUID">229304</data>
+            <data key="shared name">GO:0030038 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0051492</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0030038 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0051492</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.875</data>
+            <data key="EnrichmentMap::Overlap_size">6</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[INPP5K, PPM1E, PHLDB2, TESK1, ARHGEF18, SYNPO]</data>
+        </edge>
+        <edge source="229238" target="229280">
+            <data key="SUID">229302</data>
+            <data key="shared name">GO:0030038 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0043149</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0030038 (Geneset_Overlap_cleaned_unique_go_bp_v2__Uninjured_vs_Sham) GO:0043149</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">1.0</data>
+            <data key="EnrichmentMap::Overlap_size">8</data>
+            <data key="EnrichmentMap::Data Set">cleaned_unique_go_bp_v2__Uninjured_vs_Sham</data>
+            <data key="EnrichmentMap::Overlap_genes">[ARRB1, INPP5K, PPM1E, SRC, PHLDB2, TESK1, ARHGEF18, SYNPO]</data>
+        </edge>
+    </graph>
+</graphml>

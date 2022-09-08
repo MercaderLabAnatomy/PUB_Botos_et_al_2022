@@ -1,0 +1,49 @@
+Sample	adapter_content	Sequences flagged as poor quality	sequence_duplication_levels	avg_sequence_length	Encoding	per_base_sequence_quality	sequence_length_distribution	Sequence length	File type	basic_statistics	per_sequence_gc_content	Total Sequences	per_base_n_content	per_base_sequence_content	overrepresented_sequences	%GC	total_deduplicated_percentage	Filename	per_sequence_quality_scores	per_tile_sequence_quality
+SRR11033311_1	warn	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	warn	20221945.0	pass	warn	warn	45.0	42.0189197626	SRR11033311_1.fastq	pass	
+SRR11033311_2	warn	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	warn	20221945.0	pass	warn	warn	46.0	45.7222448615	SRR11033311_2.fastq	pass	
+SRR11033312_1	pass	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	warn	27027654.0	pass	fail	pass	45.0	36.0874359835	SRR11033312_1.fastq	pass	
+SRR11033312_2	pass	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	warn	27027654.0	pass	fail	pass	45.0	39.6556797171	SRR11033312_2.fastq	pass	
+SRR11033313_1	pass	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	warn	26715805.0	pass	fail	warn	46.0	41.7372751464	SRR11033313_1.fastq	pass	
+SRR11033313_2	pass	0.0	warn	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	warn	26715805.0	pass	fail	warn	46.0	51.7342073489	SRR11033313_2.fastq	pass	
+SRR11294120	pass	0.0	fail	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	warn	36713362.0	pass	fail	pass	44.0	38.8437269774	SRR11294120.fastq	pass	
+SRR11294121	pass	0.0	fail	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	warn	36716295.0	pass	fail	pass	44.0	37.3681144461	SRR11294121.fastq	pass	
+SRR11294122	pass	0.0	fail	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	warn	36703519.0	pass	fail	pass	45.0	38.5677676984	SRR11294122.fastq	pass	
+SRR11294126	pass	0.0	fail	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	warn	36693799.0	pass	fail	pass	44.0	30.4140320404	SRR11294126.fastq	pass	
+SRR11294127	pass	0.0	fail	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	pass	36697309.0	pass	fail	pass	44.0	31.0072237794	SRR11294127.fastq	pass	
+SRR11294128	pass	0.0	fail	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	warn	36701179.0	pass	fail	pass	44.0	31.5799989348	SRR11294128.fastq	pass	
+SRR12554271_1	fail	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	fail	69547903.0	pass	warn	fail	45.0	26.1800609123	SRR12554271_1.fastq	pass	
+SRR12554271_2	fail	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	fail	69547903.0	pass	fail	fail	48.0	26.9867373953	SRR12554271_2.fastq	pass	
+SRR12554272_1	fail	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	fail	77011709.0	pass	warn	fail	45.0	23.8297210276	SRR12554272_1.fastq	pass	
+SRR12554272_2	fail	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	fail	77011709.0	pass	fail	fail	47.0	24.6125540253	SRR12554272_2.fastq	pass	
+SRR12554273_1	fail	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	fail	68140308.0	pass	warn	fail	45.0	26.5174799186	SRR12554273_1.fastq	pass	
+SRR12554273_2	fail	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	fail	68140308.0	pass	fail	fail	48.0	28.5542744192	SRR12554273_2.fastq	pass	
+SRR12554274_1	fail	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	fail	83415544.0	pass	warn	fail	44.0	25.8498230048	SRR12554274_1.fastq	pass	
+SRR12554274_2	fail	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	fail	62116951.0	pass	fail	fail	47.0	28.7463413547	SRR12554274_2.fastq	pass	
+SRR12554275_1	fail	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	fail	66978520.0	pass	warn	fail	45.0	29.8241549405	SRR12554275_1.fastq	pass	
+SRR12554275_2	fail	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	fail	66978520.0	pass	fail	fail	48.0	31.0842806762	SRR12554275_2.fastq	pass	
+SRR12554276_1	fail	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	fail	80607973.0	pass	warn	fail	45.0	27.8703205883	SRR12554276_1.fastq	pass	
+SRR12554276_2	fail	0.0	fail	150.0	Sanger / Illumina 1.9	pass	pass	150.0	Conventional base calls	pass	fail	80607973.0	pass	fail	fail	48.0	29.1434960176	SRR12554276_2.fastq	pass	
+SRR3143894	pass	0.0	fail	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	warn	60692178.0	pass	fail	pass	46.0	38.6771086363	SRR3143894.fastq	pass	fail
+SRR3143897	pass	0.0	fail	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	warn	55031485.0	pass	fail	warn	45.0	36.9627669786	SRR3143897.fastq	pass	fail
+SRR3143899	pass	0.0	fail	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	warn	49763923.0	pass	fail	pass	46.0	35.2448452266	SRR3143899.fastq	pass	fail
+SRR3143916	pass	0.0	fail	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	warn	53631701.0	pass	fail	pass	46.0	31.4048155064	SRR3143916.fastq	pass	fail
+SRR5809464	pass	0.0	fail	76.0	Sanger / Illumina 1.9	pass	pass	76.0	Conventional base calls	pass	warn	19979205.0	pass	warn	pass	45.0	42.1124360756	SRR5809464.fastq	pass	
+SRR5809465	pass	0.0	fail	76.0	Sanger / Illumina 1.9	pass	pass	76.0	Conventional base calls	pass	warn	19316169.0	pass	warn	pass	45.0	43.3593941141	SRR5809465.fastq	pass	
+SRR5809466	pass	0.0	fail	76.0	Sanger / Illumina 1.9	pass	pass	76.0	Conventional base calls	pass	warn	19215440.0	pass	warn	pass	45.0	44.1456190696	SRR5809466.fastq	pass	
+SRR5809467	pass	0.0	fail	76.0	Sanger / Illumina 1.9	pass	pass	76.0	Conventional base calls	pass	warn	17032003.0	pass	warn	pass	46.0	44.5275221615	SRR5809467.fastq	pass	
+SRR5809472	pass	0.0	fail	76.0	Sanger / Illumina 1.9	pass	pass	76.0	Conventional base calls	pass	warn	17829621.0	pass	warn	pass	45.0	42.0326939962	SRR5809472.fastq	pass	
+SRR5809473	pass	0.0	fail	76.0	Sanger / Illumina 1.9	pass	pass	76.0	Conventional base calls	pass	warn	16663980.0	pass	warn	pass	45.0	41.7947932042	SRR5809473.fastq	pass	
+SRR5809474	pass	0.0	fail	76.0	Sanger / Illumina 1.9	pass	pass	76.0	Conventional base calls	pass	pass	16315916.0	pass	fail	warn	44.0	37.0337374351	SRR5809474.fastq	pass	
+SRR5809475	pass	0.0	fail	76.0	Sanger / Illumina 1.9	pass	pass	76.0	Conventional base calls	pass	warn	16834130.0	pass	warn	pass	45.0	42.6114800351	SRR5809475.fastq	pass	
+SRR6910771	pass	0.0	pass	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	warn	28387609.0	pass	fail	pass	44.0	73.4885498377	SRR6910771.fastq	pass	
+SRR6910772	pass	0.0	warn	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	warn	28446766.0	pass	fail	warn	44.0	63.8540658954	SRR6910772.fastq	pass	
+SRR6910773	pass	0.0	fail	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	warn	28408934.0	pass	fail	warn	45.0	45.7123698263	SRR6910773.fastq	pass	
+SRR6910774	pass	0.0	fail	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	pass	28426470.0	pass	fail	warn	44.0	42.5512304478	SRR6910774.fastq	pass	
+SRR6910775	pass	0.0	pass	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	warn	28453973.0	pass	fail	pass	44.0	73.4223705886	SRR6910775.fastq	pass	
+SRR6910776	pass	0.0	warn	50.0	Sanger / Illumina 1.9	pass	pass	50.0	Conventional base calls	pass	warn	28441492.0	pass	fail	warn	45.0	64.8396609799	SRR6910776.fastq	pass	
+SRR8867570_1	pass	0.0	fail	151.0	Sanger / Illumina 1.9	pass	pass	151.0	Conventional base calls	pass	warn	26198921.0	pass	fail	pass	46.0	42.2205533001	SRR8867570_1.fastq	pass	
+SRR8867570_2	pass	0.0	warn	151.0	Sanger / Illumina 1.9	pass	pass	151.0	Conventional base calls	pass	warn	26198921.0	pass	fail	pass	47.0	55.5370409586	SRR8867570_2.fastq	pass	
+SRR8867571_1	pass	0.0	fail	151.0	Sanger / Illumina 1.9	pass	pass	151.0	Conventional base calls	pass	fail	23922446.0	pass	fail	pass	47.0	37.6064139014	SRR8867571_1.fastq	pass	
+SRR8867571_2	pass	0.0	warn	151.0	Sanger / Illumina 1.9	pass	pass	151.0	Conventional base calls	pass	fail	23922446.0	pass	fail	pass	47.0	51.2208114325	SRR8867571_2.fastq	pass	
+SRR8867572_1	pass	0.0	fail	151.0	Sanger / Illumina 1.9	pass	pass	151.0	Conventional base calls	pass	fail	23941434.0	pass	fail	warn	48.0	29.5667569278	SRR8867572_1.fastq	pass	
+SRR8867572_2	pass	0.0	fail	151.0	Sanger / Illumina 1.9	pass	pass	151.0	Conventional base calls	pass	fail	23941434.0	pass	fail	warn	48.0	43.4550962143	SRR8867572_2.fastq	pass	

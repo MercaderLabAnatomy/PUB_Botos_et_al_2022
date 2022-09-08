@@ -1,0 +1,12 @@
+Library:
+Instrument: Illumina NovaSeq 6000
+Strategy: RNA-Seq
+Source: TRANSCRIPTOMIC
+Selection: cDNA
+Layout: PAIRED
+Construction protocol: Sham surgeried and resected zebrafish ventricles were collected, flash frozen on dry ice, and RNA was harvested using Trizol reagent. NEBNext Single Cell_Low Input RNA Library Prep Kit for Illumina was used with 200 ng of total RNA for the construction of sequencing libraries.
+
+Study Type: Transcriptome Analysis
+Abstract: In contrast to mammals, the adult zebrafish hearts can regenerate within a short period. Upregulation of major vault protein (Mvp) expression after ventricle resection. To determine the impact of loss of mvp on transcriptome during heart regeneration, we pursued transcriptome analysis (RNA-Seq) on wild type and mvp mutant zebrafish hearts at 7 day-post-amputation. Overall design: We perform ventricle resection or sham surgeries to adult wild type and mvp mutant zebrafish hearts. At 7 days post amputation, ventricle samples were collected in triplicate for RNA-seq.
+Center Project: GSE157170
+

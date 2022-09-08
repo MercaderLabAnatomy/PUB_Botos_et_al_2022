@@ -1,0 +1,11 @@
+Library:
+Instrument: NextSeq 500
+Strategy: RNA-Seq
+Source: TRANSCRIPTOMIC
+Selection: cDNA
+Layout: SINGLE
+Construction protocol: Hearts were dissected, placed in sterile PBS to remove the atrium or bulbus arteriosus and the remaining ventricle was subsequently flash frozen in liquid nitrogen and stored at -80ºC. Total RNA from three or four ventricles was isolated and homogenized in 150 µl of QIAzolLysis Reagent. Pooled samples were processed with the miRNeasy MicroKit (Qiagen). The miRNeasy Micro Kit DNase treatment was included for RNA-seq analysis to remove genomic DNA, following the manufacturer's specifications. RNA libraries were prepared for sequencing using standard Illumina protocols (NebNext Ultra) RNA-Seq (poly-A capture)
+
+Study Type: Transcriptome Analysis
+Abstract: Exercise promotes a set of physiological adaptations known to provide long-term health benefits and it can play an important role in cardioprotection. However, the mechanisms underlying exercise-induced cardiac adaptation are not fully understood. In the present study, we examined cardiac adaptive responses to exercise training in the adult zebrafish and in the context of cardiac regeneration.We found that swimming-induced exercise increased cardiomyocyte proliferation and that this response was also found under regenerating conditions, when exercise was performed either prior to and after ventricular cryoinjury (CI). Exercise prior to CI resulted in a mild improvement in cardiac function and lesion recovery over the non-exercise condition.Transcriptomic profiling of regenerating ventricles in cryoinjured fish subjected to exercise revealed a differential regulation of genes related toregeneration as well as other biological processes potentially involved in the exercise response. Taken together, these results suggest that exercise constitutes a physiological stimulus thatmay help promote cardiomiogenic mechanisms of the vertebrate heart and that the zebrafish exercise model may be useful for evaluating the potential cardioprotective effects of exercise. Overall design: mRNA profiles of adult zebrafish regenerating ventricles at 7 and 14 days post injury that were exercising or not, were compared.
+Center Project: GSE100892

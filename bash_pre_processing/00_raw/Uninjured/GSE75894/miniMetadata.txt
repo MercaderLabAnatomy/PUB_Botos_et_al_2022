@@ -1,0 +1,10 @@
+Library:
+Instrument: Illumina Genome Analyzer II
+Strategy: RNA-Seq
+Source: TRANSCRIPTOMIC
+Selection: cDNA
+Layout: SINGLE
+Construction protocol: Hearts were collected 7 days after treatment. 10 ventricles were dissected, rinsed in heparin, placed in Trizol and homogenized. RNA was then extracted. Illumina RNA-Seq, 50 bp Single end libraries
+Study Type: Other
+Abstract: We compared transcriptional and chromatin profiles of regenerating zebrafish hearts following genetic ablation with profiles from uninjured zebrafish hearts. Overall design: Examination of whole heart transcriptional profiles from ablated hearts (2 pools of 10 hearts) and uninjured hearts (2 pools of 10 hearts). Examination of differential H3K27Ac marks following genetic ablation of cardiomyocytes (regenerating hearts) and uninjured hearts.
+Center Project: GSE75894
