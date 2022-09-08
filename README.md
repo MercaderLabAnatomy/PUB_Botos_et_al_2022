@@ -3,7 +3,7 @@
 
 ### **Meta-analysis code structured in different analysis steps.**
 
-* **Download data with the ´raw´ folder **
+* **Download data with the ´raw´ folder**
 * **Pre-process the data following the sequential steps:´multiqc´ to ´fastp´ to optional rechech with ´multiqc´ to indexing the reference genome and prepare mapping with ´STAR´ within ´indexing´ to ´mapping´**
 * **Processing of the data using ´R´**
 * **Pub Med query the genes of interest with ´pubmed_query_processing´**
