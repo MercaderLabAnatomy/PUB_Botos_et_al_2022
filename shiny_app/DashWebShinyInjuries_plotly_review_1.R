@@ -1,5 +1,4 @@
 library("sodium")
-library("shinyauthr")
 library("devtools")
 library("shinymanager")
 #library("shiny")
@@ -10,9 +9,7 @@ library("fontawesome")
 library("shinydashboard")
 library("shinycssloaders")
 library("igraph")
-library("markdown")
 library("rmarkdown")
-library("dplyr")
 library("ggplot2")
 library("visNetwork")
 library("heatmaply")
@@ -22,6 +19,7 @@ library("RColorBrewer")
 library("biomaRt")
 library("curl")
 library("wesanderson")
+library("shinyauthr")
 
 rm(list=ls())
 gc()
@@ -803,34 +801,6 @@ counts_148_selected_without_doubles <- cbind.data.frame(counts_148_selected_with
 rownames(counts_148_selected_without_doubles) <- amp_df_2$MGI_Symbol
 colnames(counts_148_selected_without_doubles) <- c("Resection","Ablation","Cryoinjury")
 
-#add description of these genes
-
-#biomaRt::listEnsembl()
-# #Use ensembl
-# ensembl <- useEnsembl("ENSEMBL_MART_ENSEMBL")
-# #biomaRt::listAttributes(ensembl)
-# #biomaRt::listDatasets(ensembl)
-# 
-# #dre = useEnsembl(biomart = "ensembl", dataset = "drerio_gene_ensembl", host = "https://dec2021.archive.ensembl.org/")#mirror = "useast") # query organism (from this organism)
-# mmus = useEnsembl(biomart = "ensembl", dataset = "mmusculus_gene_ensembl", host = "https://dec2021.archive.ensembl.org/")#mirror = "useast") # target organism (convert genes to this organism)
-# 
-# #danio_ensembl_id_attributes <-c("ensembl_gene_id", "mmusculus_homolog_perc_id")#,# attributes to query from danio database (query organism) 
-# #"mmusculus_homolog_goc_score") #orthology score to mouse from danio side
-# 
-# #danio_zfin_id_attributes <-c("ensembl_gene_id", "entrezgene_id", "zfin_id_symbol","description") # attributes to convert ensembl id to zfin id 
-# 
-# 
-# mmus_attributes <- c("mgi_symbol", "description") # attributes that you want from mouse database
-# 
-# #make a converted dataframe with ensemble ids and mouse orthology scores 
-
-#make dataframe for dre ensembl id and zfin
-# m <- cryo_df_2$MGI_Symbol
-# dim(m)
-# genes_148__desc_mmus = getBM(attributes = mmus_attributes,
-#                                          filters = "mgi_symbol",
-#                                          values = m,
-#                                          mart = mmus)
 
 
 
@@ -1455,37 +1425,7 @@ server <- function(input, output, session) {
                          
                          trace="none")
   }) 
-    #heatmap_layers = theme(axis.line=element_blank()))genes_core <-  "nothing"
-    # # print(genes_core)
-    # core_counts2 <- as.data.frame(core_counts[,c(rownames(s4c %>% filter(Condition %in% c("Sham","Cryoinjury","Ablated","Resection"))),"MGI_Symbol")])
-    # 
-    # core_counts_genes <- core_counts2 %>% filter(MGI_Symbol %in% genes_core) %>% distinct(MGI_Symbol,.keep_all = TRUE)
-    # 
-    # core_mat <- as.data.frame(core_counts_genes[,-c(length(core_counts_genes))])
-    # rownames(core_mat) <- core_counts_genes$MGI_Symbol
-    # # print(head(s4c))
-    # # print(unique(s4c$Condition))
-    # 
-    # cols_core <- s4c |> dplyr::filter(rownames(s4c) %in% colnames(core_mat))
-    # # print(unique(cols_core$Condition))
-    # 
-    # cols_core$ID <- row.names(cols_core)
-    # # print(unique(cols_core$Condition))
-    # cols_core <- cols_core[order(cols_core$Condition,decreasing = TRUE),]
-    # # print(unique(cols_core$Condition))
-    # if(nrow(core_mat)<=2){cluster=TRUE}else {cluster=FALSE}
-    # my_palette <- colorRampPalette(brewer.pal(3, "YlOrRd"))(256)
-    # 
-    # output$corehm <- renderPlotly({
-    #   heatmaply::heatmaply(x = core_mat |> dplyr::select(cols_core$ID[order(cols_core$Condition,decreasing = TRUE)]),
-    #                        
-    #                        Rowv = FALSE,
-    #                        Colv = FALSE,
-    #                        
-    #                        trace="none")
-    #   
-    # }) 
- 
+  
   
   #"GO:0071621"
   observeEvent(input$current_node_id, {
@@ -1595,17 +1535,8 @@ server <- function(input, output, session) {
                            grid_width = 0.21)#heatmap_layers = theme(axis.line=element_blank()))
       })
     })
-  #my_palette<- rev(RdBu(9))
-  #my_palette_v <- rev(colorRampPalette(brewer.pal(3, "RdYlBu"))(99))
-  #my_palette_v <- display.brewer.pal(n = 12, name = 'RdYlBu')
-  #my_palette_v = wes_palette("Zissou1", 5)
+  
   my_palette_v <- rev(brewer.pal(n = 11, name = "RdYlBu"))
-  # center_around <- function(center=0) {
-  #   function(x, to=NA, from=NA) {
-  #     r <- max(abs(from-center))
-  #     (x - (center-r)) / 2/r
-  #   }
-  # }
   
    
   output$core_l2fc_hm <- renderPlotly({
