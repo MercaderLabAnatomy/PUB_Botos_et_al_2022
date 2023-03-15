@@ -13,10 +13,10 @@ Starting from a gene list which have been already filtered for the specified tre
                  readable = T)				#readable so translated entrez ids back to gene symbols`
 
 * With the result create another dataframe which contains only the statistical significant if interested following a the next structure:
-	+ Symbol\tDescription\tSample1\tSample2\tSample3\tSamplen(counts values for the samples)
-	+ GO:ID\tDescription\tp.Val\tFDR\tPhenotype(optional)\tGenes(involved in the GO:ID)
+	+ `Symbol Description Sample1 Sample2 Sample3 Samplen(counts values for the samples)`
+	+ `GO:ID Description  p.Val FDR  Phenotype(optional) Genes(involved in the GO:ID)`
 * With the previous table we can upload the data to Cytoscape after having installed the EnrichmentMap plugin.
-* Next step in our situation as we downloaded only the GO:BP annotation we need to retrieve all the GO:IDs and from their respective database, follow baderlab enrichmentmap gene sets respective date GO:BP in our case without infered GO:BP [link](http://download.baderlab.org/EM_Genesets/August_03_2022/Mouse/symbol/).
+* Next step in our situation as we downloaded only the GO\:BP annotation we need to retrieve all the GO\:IDs and from their respective database, follow baderlab enrichmentmap gene sets respective date GO\:BP in our case without infered GO\:BP [link](http://download.baderlab.org/EM_Genesets/August_03_2022/Mouse/symbol/).
 * With this information we could create our first network in EnrichmentMap.
 
 * Next point would be having installed AutoAnnotate in the Cytoscape apps.
@@ -39,18 +39,16 @@ Start with the wrangling using R,Cytoscape and optional create a table in Excel 
 	+ Start with `library("igraph")`
 	+ Read the graph in R: `graph_object <- read_graph(file = "./data/yourGraphPath.graphml",format = "graphml")`
 
-* Next we need to associate each AutoAnnotate generated cluster with the GO:IDs inside so we are able to graph and select them later.
-* For this a column with the AutoAnnotate Cluster name shall be created\t and a column with the respective GO:IDs involved
+* Next we need to associate each AutoAnnotate generated cluster with the GO\:IDs inside so we are able to graph and select them later.
+* For this a column with the AutoAnnotate Cluster name shall be created\t and a column with the respective GO\:IDs involved
 * Add these dataframe to the graph, code is available in shiny_app folder.
 * Examples from this steps:
 	+ `cmc <- c("GO:0000075", "GO:0007088", "GO:0007091", "GO:0007093", "GO:0007094", "GO:0007096", "GO:0010639", "GO:0010948", "GO:0010965", "GO:0030071", "GO:0031577", "GO:0033044", "GO:0033045", "GO:0033046", "GO:0033047", "GO:0033048", "GO:0044770", "GO:0044772", "GO:0044784", "GO:0045786", "GO:0045839", "GO:0045841", "GO:0051304", "GO:0051306", "GO:0051783", "GO:0051784", "GO:0051983", "GO:0051985", "GO:0071173", "GO:0071174", "GO:0090231", "GO:0090266", "GO:1901976", "GO:1901987", "GO:1901988", "GO:1901990", "GO:1901991", "GO:1902099", "GO:1902100", "GO:1903504", "GO:1905818", "GO:1905819", "GO:2000816", "GO:2001251")`
 	+ `vertex_attr(core)$AA <- case_when(vertex_attr(core)$name %in% cmc ~ "checkpoint mitotic cycle"...`
-	+ `long_list_to_fill_core <- lapply(seq_along(unique(vertex_attr(core)$AA)),function(i) i)
+	+ `long_list_to_fill_core <- lapply(seq_along(unique(vertex_attr(core)$AA)),function(i) i)`
 
-AA_Clusters <- lapply(seq_along(vertex_attr(core)$AA),function(n) {
-  if_else(is.na(vertex_attr(core)$AA[[n]]) == TRUE,
-          long_list_to_fill_core[n] <- vertex_attr(core)$`EnrichmentMap::GS_DESCR`[[n]],
-          long_list_to_fill_core[n] <- vertex_attr(core)$AA[[n]])
+  + `AA_Clusters <- lapply(seq_along(vertex_attr(core)$AA),function(n) {
+  if_else(is.na(vertex_attr(core)$AA[[n]]) == TRUE, long_list_to_fill_core[n] <- vertex_attr(core)$`EnrichmentMap::GS_DESCR`[[n]], long_list_to_fill_core[n] <- vertex_attr(core)$AA[[n]])
 })
 vertex_attr(core)$Clusters <- unlist(AA_Clusters)`
 
