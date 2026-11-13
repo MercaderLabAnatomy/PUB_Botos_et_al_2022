@@ -12,5 +12,9 @@ Shiny app: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org
 * **Web Application follows and requires analysis with Cytoscape and further R integration**
 * **Shiny app code is in the folder `shiny_app`**
 
+### App version
+
+The Shiny dashboard was rebuilt as **v2** (2025/2026). The `shiny_app` folder now contains the v2 app (`server.R`, `ui.R`, `data/`, `www/`). The deployable Binder version of the v2 dashboard is maintained in the public repository: https://github.com/MercaderLabAnatomy/PUB_Botos_et_al_2022_shinyapp_binder
+
 P.S - The app usually takes 2-3 minutes to load, if it takes longer please reload the link
 

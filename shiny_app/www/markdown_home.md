@@ -17,7 +17,7 @@
 ## Workflow implemented in the meta-analysis:
 
 
-<img src="./www/Figure1_corrected_Shape_and_Index_v4_calibri-2.png" alt="Workflow implemented in the meta-analysis" style="width:720px;"/>
+![Figure 1](Figure1_corrected_Shape_and_Index_v4_calibri-2.png){width="100%"}
 
 *PS:* **the genes found differentially expressed in *Danio rerio* were converted to the correspondent orthologues in *Mus musculus* and used for the whole analysis in the Over-representation analysis.**
 
@@ -34,4 +34,4 @@
 -   **6:** Followed by the Heatmap of the Core Regeneration genes in the three injury models and their respective up or down regulation when compared to sham.
 -   **7:** Followed by Gene Seeker, where minimum 2 genes shall be selected in order to see a Heatmap and a data table of expression among all samples, and the respective description of each gene.
 
-### 
+###

@@ -1,0 +1,4 @@
+ID	Description	p.Val	FDR	Phenotype	Genes
+GO:0061951	establishment of protein localization to plasma membrane	1.45599398164543e-05	0.0247637310482106	1	Lyplal1,Acsl3,Prepl,Gripap1,Washc1,Rab8a,Arhgap44
+GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	3.46220476138055e-05	0.0247637310482106	1	Ripk1,Src,Bmp4,Mapk7,Tnfaip3,Rffl,Zc3hc1,Pea15a
+GO:0099638	endosome to plasma membrane protein transport	5.88499870796538e-05	0.0345645590781167	1	Gripap1,Washc1,Rab8a,Arhgap44

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="SUID" attr.type="long" for="node" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="node" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="node" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="node" id="selected"/>
+    <key attr.name="__mclCluster" attr.type="int" for="node" id="__mclCluster"/>
+    <key attr.name="EnrichmentMap::Name" attr.type="string" for="node" id="EnrichmentMap::Name"/>
+    <key attr.name="EnrichmentMap::GS_DESCR" attr.type="string" for="node" id="EnrichmentMap::GS_DESCR"/>
+    <key attr.name="EnrichmentMap::GS_Type" attr.type="string" for="node" id="EnrichmentMap::GS_Type"/>
+    <key attr.name="EnrichmentMap::Genes" attr.type="string" for="node" id="EnrichmentMap::Genes"/>
+    <key attr.name="EnrichmentMap::gs_size" attr.type="int" for="node" id="EnrichmentMap::gs_size"/>
+    <key attr.name="EnrichmentMap::pvalue (Uninjured)" attr.type="double" for="node" id="EnrichmentMap::pvalue (Uninjured)"/>
+    <key attr.name="EnrichmentMap::fdr_qvalue (Uninjured)" attr.type="double" for="node" id="EnrichmentMap::fdr_qvalue (Uninjured)"/>
+    <key attr.name="EnrichmentMap::fwer_qvalue (Uninjured)" attr.type="double" for="node" id="EnrichmentMap::fwer_qvalue (Uninjured)"/>
+    <key attr.name="EnrichmentMap::ES (Uninjured)" attr.type="double" for="node" id="EnrichmentMap::ES (Uninjured)"/>
+    <key attr.name="EnrichmentMap::NES (Uninjured)" attr.type="double" for="node" id="EnrichmentMap::NES (Uninjured)"/>
+    <key attr.name="EnrichmentMap::Colouring (Uninjured)" attr.type="double" for="node" id="EnrichmentMap::Colouring (Uninjured)"/>
+    <key attr.name="SUID" attr.type="long" for="edge" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="edge" id="shared name"/>
+    <key attr.name="shared interaction" attr.type="string" for="edge" id="shared interaction"/>
+    <key attr.name="name" attr.type="string" for="edge" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="edge" id="selected"/>
+    <key attr.name="interaction" attr.type="string" for="edge" id="interaction"/>
+    <key attr.name="EnrichmentMap::similarity_coefficient" attr.type="double" for="edge" id="EnrichmentMap::similarity_coefficient"/>
+    <key attr.name="EnrichmentMap::Overlap_size" attr.type="int" for="edge" id="EnrichmentMap::Overlap_size"/>
+    <key attr.name="EnrichmentMap::Data Set" attr.type="string" for="edge" id="EnrichmentMap::Data Set"/>
+    <key attr.name="EnrichmentMap::Overlap_genes" attr.type="string" for="edge" id="EnrichmentMap::Overlap_genes"/>
+    <key attr.name="SUID" attr.type="long" for="graph" id="SUID"/>
+    <key attr.name="shared name" attr.type="string" for="graph" id="shared name"/>
+    <key attr.name="name" attr.type="string" for="graph" id="name"/>
+    <key attr.name="selected" attr.type="boolean" for="graph" id="selected"/>
+    <key attr.name="__Annotations" attr.type="string" for="graph" id="__Annotations"/>
+    <key attr.name="__clusterAttribute" attr.type="string" for="graph" id="__clusterAttribute"/>
+    <key attr.name="__clusterParams" attr.type="string" for="graph" id="__clusterParams"/>
+    <key attr.name="__clusterType" attr.type="string" for="graph" id="__clusterType"/>
+    <key attr.name="__MCLGroups.SUID" attr.type="string" for="graph" id="__MCLGroups.SUID"/>
+    <key attr.name="Use Stemming" attr.type="boolean" for="graph" id="Use Stemming"/>
+    <key attr.name="Cloud Counter" attr.type="int" for="graph" id="Cloud Counter"/>
+    <key attr.name="Cloud Network UID" attr.type="int" for="graph" id="Cloud Network UID"/>
+    <graph edgedefault="directed" id="Uninjured">
+        <node id="9761">
+            <data key="SUID">9761</data>
+            <data key="shared name">GO:2001237</data>
+            <data key="name">GO:2001237</data>
+            <data key="selected">false</data>
+            <data key="EnrichmentMap::Name">GO:2001237</data>
+            <data key="EnrichmentMap::GS_DESCR">NEGATIVE REGULATION OF EXTRINSIC APOPTOTIC SIGNALING PATHWAY</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[RIPK1, SRC, BMP4, MAPK7, TNFAIP3, RFFL, ZC3HC1, PEA15A]</data>
+            <data key="EnrichmentMap::gs_size">8</data>
+            <data key="EnrichmentMap::pvalue (Uninjured)">3.46220476138055E-5</data>
+            <data key="EnrichmentMap::fdr_qvalue (Uninjured)">0.0247637310482106</data>
+            <data key="EnrichmentMap::NES (Uninjured)">1.0</data>
+            <data key="EnrichmentMap::Colouring (Uninjured)">0.9999653779523862</data>
+        </node>
+        <node id="9759">
+            <data key="SUID">9759</data>
+            <data key="shared name">GO:0099638</data>
+            <data key="name">GO:0099638</data>
+            <data key="selected">false</data>
+            <data key="__mclCluster">1</data>
+            <data key="EnrichmentMap::Name">GO:0099638</data>
+            <data key="EnrichmentMap::GS_DESCR">ENDOSOME TO PLASMA MEMBRANE PROTEIN TRANSPORT</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[GRIPAP1, WASHC1, RAB8A, ARHGAP44]</data>
+            <data key="EnrichmentMap::gs_size">4</data>
+            <data key="EnrichmentMap::pvalue (Uninjured)">5.88499870796538E-5</data>
+            <data key="EnrichmentMap::fdr_qvalue (Uninjured)">0.0345645590781167</data>
+            <data key="EnrichmentMap::NES (Uninjured)">1.0</data>
+            <data key="EnrichmentMap::Colouring (Uninjured)">0.9999411500129204</data>
+        </node>
+        <node id="9757">
+            <data key="SUID">9757</data>
+            <data key="shared name">GO:0061951</data>
+            <data key="name">GO:0061951</data>
+            <data key="selected">false</data>
+            <data key="__mclCluster">1</data>
+            <data key="EnrichmentMap::Name">GO:0061951</data>
+            <data key="EnrichmentMap::GS_DESCR">ESTABLISHMENT OF PROTEIN LOCALIZATION TO PLASMA MEMBRANE</data>
+            <data key="EnrichmentMap::GS_Type">ENR</data>
+            <data key="EnrichmentMap::Genes">[LYPLAL1, ACSL3, PREPL, GRIPAP1, WASHC1, RAB8A, ARHGAP44]</data>
+            <data key="EnrichmentMap::gs_size">7</data>
+            <data key="EnrichmentMap::pvalue (Uninjured)">1.45599398164543E-5</data>
+            <data key="EnrichmentMap::fdr_qvalue (Uninjured)">0.0247637310482106</data>
+            <data key="EnrichmentMap::NES (Uninjured)">1.0</data>
+            <data key="EnrichmentMap::Colouring (Uninjured)">0.9999854400601835</data>
+        </node>
+        <edge source="9757" target="9759">
+            <data key="SUID">9763</data>
+            <data key="shared name">GO:0061951 (Geneset_Overlap_Uninjured) GO:0099638</data>
+            <data key="shared interaction">Geneset_Overlap</data>
+            <data key="name">GO:0061951 (Geneset_Overlap_Uninjured) GO:0099638</data>
+            <data key="selected">false</data>
+            <data key="interaction">Geneset_Overlap</data>
+            <data key="EnrichmentMap::similarity_coefficient">0.7857142857142857</data>
+            <data key="EnrichmentMap::Overlap_size">4</data>
+            <data key="EnrichmentMap::Data Set">Uninjured</data>
+            <data key="EnrichmentMap::Overlap_genes">[GRIPAP1, WASHC1, RAB8A, ARHGAP44]</data>
+        </edge>
+    </graph>
+</graphml>
